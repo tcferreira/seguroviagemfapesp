@@ -1,0 +1,45 @@
+# Dependências
+vendor/
+
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# Documentação interna / confidencial
+documentacao/
+
+# Inspiração / referência
+inpiracao/
+
+# Uploads do usuário
+userfiles/
+
+# Sistema CI3 (opcional — descomente se não quiser versionar)
+# system/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+# Logs
+*.log
+application/logs/*.php
+!application/logs/index.html
+
+# Cache
+application/cache/*
+!application/cache/index.html
+
+# Composer
+composer.phar
