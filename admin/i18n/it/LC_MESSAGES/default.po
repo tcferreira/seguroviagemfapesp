@@ -1,0 +1,3421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Signis CMS\n"
+"POT-Creation-Date: 2016-07-06 10:20-0300\n"
+"PO-Revision-Date: 2016-07-06 10:20-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: T_;T_ngettext\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/MY_Controller.php:296
+msgid ""
+"Verifique o relacionamento desse registro ou entre em contato com o "
+"administrador do sistema!"
+msgstr ""
+
+#: core/MY_Controller.php:297
+msgid ""
+"Ocorreu um erro ao atualizar a ordem, atualize a página e tente novamente!"
+msgstr ""
+
+#: core/MY_Controller.php:298
+msgid "não será enviado.\\n\\nVocê não pode enviar arquivos com essa extensão"
+msgstr ""
+
+#: core/MY_Controller.php:299
+msgid "A sessão foi fechada você será redirecionado para a tela de login!"
+msgstr ""
+
+#: core/MY_Controller.php:300
+msgid "não será enviado.\\n\\nVocê não pode enviar arquivos com extensão:"
+msgstr ""
+
+#: core/MY_Controller.php:301
+msgid "Há campos obrigatórios que devem ser preenchidos."
+msgstr ""
+
+#: core/MY_Controller.php:302
+msgid "Você tem certeza que deseja efetuar a exclusão?"
+msgstr ""
+
+#: core/MY_Controller.php:303
+msgid "Desculpe, ocorreu um erro. Tente novamente."
+msgstr ""
+
+#: core/MY_Controller.php:304
+msgid "Desculpe, ocorreu um erro inesperado."
+msgstr ""
+
+#: core/MY_Controller.php:305
+msgid "para ir para a listagem."
+msgstr ""
+
+#: core/MY_Controller.php:306
+#: modules/administracao/views/associacoes/tab_association.php:25
+msgid "Selecione a Categoria"
+msgstr ""
+
+#: core/MY_Controller.php:307 modules/redacao/views/editorial/formulario.php:31
+#: modules/redacao/views/noticia/formulario.php:60
+msgid "Selecione o editorial"
+msgstr ""
+
+#: core/MY_Controller.php:308
+msgid "Selecione um arquivo"
+msgstr ""
+
+#: core/MY_Controller.php:309
+msgid "Redirecionando..."
+msgstr ""
+
+#: core/MY_Controller.php:310
+msgid "Alterar Imagem"
+msgstr ""
+
+#: core/MY_Controller.php:311
+msgid "Enviar Imagem"
+msgstr ""
+
+#: core/MY_Controller.php:312
+msgid "O arquivo"
+msgstr ""
+
+#: core/MY_Controller.php:313 modules/eventos/views/evento/formulario.php:310
+#: modules/multimidia/views/fotos/formulario.php:128
+msgid "Recortar"
+msgstr ""
+
+#: core/MY_Controller.php:314
+#: modules/administracao/views/associacoes/listagem.php:91
+#: modules/administracao/views/associacoes/tab_association.php:37
+#: modules/administracao/views/grupos/grupos.php:81
+#: modules/administracao/views/usuarios/usuarios.php:90
+#: modules/banners/views/listagem.php:137
+#: modules/comum/views/comentarios.php:84
+#: modules/contatos/views/contato/visualizar.php:55
+#: modules/contatos/views/negocios/listagem.php:123
+#: modules/contatos/views/seja_membro/visualizar.php:55
+#: modules/eventos/views/categorias/listagem.php:111
+#: modules/eventos/views/evento/listagem.php:111
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:173
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:81
+#: modules/links/views/listagem.php:105
+#: modules/multimidia/views/categorias/listagem.php:111
+#: modules/multimidia/views/documentos/listagem.php:117
+#: modules/multimidia/views/fotos/listagem.php:123
+#: modules/multimidia/views/podcasts/listagem.php:132
+#: modules/multimidia/views/videos/listagem.php:125
+#: modules/newsletter/views/newsletter.php:108
+#: modules/publicidade/views/banners/formulario.php:203
+#: modules/publicidade/views/clientes/listagem.php:95
+#: modules/redacao/views/editorial/listagem.php:122
+#: modules/routes/views/listagem.php:57
+msgid "Excluir"
+msgstr ""
+
+#: core/MY_Controller.php:315
+msgid "Clique"
+msgstr ""
+
+#: core/MY_Controller.php:316
+msgid "aqui"
+msgstr ""
+
+#: core/MY_Controller.php:318
+msgid "Selecione a cidade"
+msgstr ""
+
+#: core/MY_Controller.php:320
+msgid "Preencha corretamente os dados de localização."
+msgstr ""
+
+#: core/MY_Controller.php:322
+msgid "A senha deve conter pelo menos 6 senha_caracteres"
+msgstr ""
+
+#: core/MY_Controller.php:323 modules/esqueci/views/esqueci.php:9
+#: modules/login/views/login.php:9
+msgid "Digite seu E-mail ou seu nome de Usuário"
+msgstr ""
+
+#: core/MY_Controller.php:324
+msgid "As senha digitadas não são iguais"
+msgstr ""
+
+#: core/MY_Controller.php:325
+msgid "Informe a sua nova senha"
+msgstr ""
+
+#: core/MY_Controller.php:326
+msgid "Repita a sua nova senha"
+msgstr ""
+
+#: core/MY_Controller.php:328
+msgid "Carregando..."
+msgstr ""
+
+#: core/MY_Controller.php:329
+msgid "Janeiro"
+msgstr ""
+
+#: core/MY_Controller.php:330
+msgid "Fevereiro"
+msgstr ""
+
+#: core/MY_Controller.php:331
+msgid "Março"
+msgstr ""
+
+#: core/MY_Controller.php:332
+msgid "abril"
+msgstr ""
+
+#: core/MY_Controller.php:333
+msgid "Maio"
+msgstr ""
+
+#: core/MY_Controller.php:334
+msgid "Junho"
+msgstr ""
+
+#: core/MY_Controller.php:335
+msgid "Julho"
+msgstr ""
+
+#: core/MY_Controller.php:336
+msgid "Agosto"
+msgstr ""
+
+#: core/MY_Controller.php:337
+msgid "Setembro"
+msgstr ""
+
+#: core/MY_Controller.php:338
+msgid "Outubro"
+msgstr ""
+
+#: core/MY_Controller.php:339
+msgid "Novembro"
+msgstr ""
+
+#: core/MY_Controller.php:340
+msgid "Dezembro"
+msgstr ""
+
+#: core/MY_Controller.php:341
+msgid "Jan"
+msgstr ""
+
+#: core/MY_Controller.php:342
+msgid "Fev"
+msgstr ""
+
+#: core/MY_Controller.php:343
+msgid "Mar"
+msgstr ""
+
+#: core/MY_Controller.php:344
+msgid "Abr"
+msgstr ""
+
+#: core/MY_Controller.php:345
+msgid "Mai"
+msgstr ""
+
+#: core/MY_Controller.php:346
+msgid "Jun"
+msgstr ""
+
+#: core/MY_Controller.php:347
+msgid "Jul"
+msgstr ""
+
+#: core/MY_Controller.php:348
+msgid "Ago"
+msgstr ""
+
+#: core/MY_Controller.php:349
+msgid "Set"
+msgstr ""
+
+#: core/MY_Controller.php:350
+msgid "Out"
+msgstr ""
+
+#: core/MY_Controller.php:351
+msgid "Nov"
+msgstr ""
+
+#: core/MY_Controller.php:352
+msgid "Dez"
+msgstr ""
+
+#: core/MY_Controller.php:353
+msgid "Domingo"
+msgstr ""
+
+#: core/MY_Controller.php:354
+msgid "Segunda"
+msgstr ""
+
+#: core/MY_Controller.php:355
+msgid "Terça"
+msgstr ""
+
+#: core/MY_Controller.php:356
+msgid "Quarta"
+msgstr ""
+
+#: core/MY_Controller.php:357
+msgid "Quinta"
+msgstr ""
+
+#: core/MY_Controller.php:358
+msgid "Sexta"
+msgstr ""
+
+#: core/MY_Controller.php:359
+msgid "Sábado"
+msgstr ""
+
+#: core/MY_Controller.php:360
+msgid "hoje"
+msgstr ""
+
+#: core/MY_Controller.php:361
+msgid "mês"
+msgstr ""
+
+#: core/MY_Controller.php:362
+msgid "semana"
+msgstr ""
+
+#: core/MY_Controller.php:363
+msgid "dia"
+msgstr ""
+
+#: core/MY_Controller.php:364
+msgid "Dia todo"
+msgstr ""
+
+#: core/MY_Controller.php:366
+#: modules/administracao/views/associacoes/formulario.php:169
+msgid "Vídeo"
+msgstr ""
+
+#: core/MY_Controller.php:367 modules/administracao/controllers/modulos.php:138
+#: modules/administracao/controllers/modulos.php:161
+#: modules/administracao/views/associacoes/formulario.php:19
+#: modules/administracao/views/associacoes/listagem.php:51
+#: modules/banners/controllers/banners.php:144
+#: modules/banners/controllers/banners.php:172
+#: modules/banners/views/formulario.php:79
+#: modules/banners/views/listagem.php:70
+#: modules/contatos/views/pagina_contato/formulario.php:11
+#: modules/eventos/controllers/categorias.php:135
+#: modules/eventos/controllers/categorias.php:162
+#: modules/eventos/controllers/evento.php:160
+#: modules/eventos/controllers/evento.php:189
+#: modules/eventos/views/categorias/formulario.php:49
+#: modules/eventos/views/categorias/listagem.php:57
+#: modules/eventos/views/evento/formulario.php:102
+#: modules/eventos/views/evento/formulario.php:237
+#: modules/eventos/views/evento/listagem.php:57
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:163
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:200
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:54
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:43
+#: modules/multimidia/controllers/categorias.php:152
+#: modules/multimidia/controllers/categorias.php:178
+#: modules/multimidia/controllers/documentos.php:150
+#: modules/multimidia/controllers/documentos.php:178
+#: modules/multimidia/controllers/fotos.php:154
+#: modules/multimidia/controllers/fotos.php:182
+#: modules/multimidia/controllers/podcasts.php:151
+#: modules/multimidia/controllers/podcasts.php:184
+#: modules/multimidia/controllers/videos.php:151
+#: modules/multimidia/controllers/videos.php:179
+#: modules/multimidia/views/categorias/formulario.php:42
+#: modules/multimidia/views/categorias/listagem.php:57
+#: modules/multimidia/views/documentos/formulario.php:95
+#: modules/multimidia/views/documentos/listagem.php:57
+#: modules/multimidia/views/fotos/formulario.php:59
+#: modules/multimidia/views/fotos/listagem.php:62
+#: modules/multimidia/views/podcasts/formulario.php:71
+#: modules/multimidia/views/podcasts/listagem.php:67
+#: modules/multimidia/views/videos/formulario.php:59
+#: modules/multimidia/views/videos/listagem.php:62
+#: modules/publicidade/controllers/banners.php:156
+#: modules/publicidade/controllers/banners.php:189
+#: modules/publicidade/views/banners/formulario.php:124
+#: modules/publicidade/views/banners/listagem.php:67
+#: modules/redacao/controllers/editoriais.php:156
+#: modules/redacao/controllers/editoriais.php:183
+#: modules/redacao/controllers/noticias.php:161
+#: modules/redacao/controllers/noticias.php:190
+#: modules/redacao/views/editorial/formulario.php:50
+#: modules/redacao/views/editorial/listagem.php:67
+#: modules/redacao/views/noticia/formulario.php:78
+#: modules/redacao/views/noticia/formulario.php:175
+#: modules/redacao/views/noticia/listagem.php:69
+#: modules/routes/views/formulario.php:8 modules/routes/views/formulario.php:50
+#: modules/routes/views/formulario.php:51 modules/routes/views/listagem.php:43
+msgid "Título"
+msgstr ""
+
+#: core/MY_Controller.php:368 modules/banners/views/formulario.php:84
+#: modules/eventos/views/evento/formulario.php:240
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:167
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:204
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:86
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:67
+#: modules/gerenciador_de_conteudo/views/site/site.php:28
+#: modules/gerenciador_de_conteudo/views/site/site.php:61
+#: modules/gerenciador_de_conteudo/views/site/site.php:94
+#: modules/links/controllers/links.php:135
+#: modules/links/controllers/links.php:161
+#: modules/links/views/formulario.php:59
+#: modules/multimidia/controllers/podcasts.php:152
+#: modules/multimidia/controllers/podcasts.php:185
+#: modules/multimidia/views/videos/formulario.php:63
+#: modules/publicidade/views/banners/formulario.php:128
+#: modules/redacao/views/noticia/formulario.php:178
+msgid "Link"
+msgstr ""
+
+#: core/MY_Controller.php:370
+msgid "Você tem certeza que deseja excluir esta imagem?"
+msgstr ""
+
+#: core/MY_Controller.php:371
+msgid "Você tem certeza que deseja excluir estes itens?"
+msgstr ""
+
+#: core/MY_Controller.php:372
+msgid "Créditos"
+msgstr "Credits"
+
+#: core/MY_Controller.php:373
+msgid "Legenda"
+msgstr ""
+
+#: core/MY_Controller.php:374
+msgid "Autor"
+msgstr ""
+
+#: core/MY_Controller.php:376
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:34
+msgid "Menu principal"
+msgstr ""
+
+#: core/MY_Controller.php:378
+msgid "Digite a sua senha"
+msgstr ""
+
+#: core/MY_Controller.php:380
+msgid ""
+"Você será redirecionado em 10 segundos para a listagem de registros. Clique"
+msgstr ""
+
+#: core/MY_Controller.php:381
+msgid "para ir diretamente."
+msgstr ""
+
+#: core/MY_Controller.php:383
+#: modules/administracao/views/associacoes/formulario.php:89
+#: modules/administracao/views/associacoes/formulario.php:101
+#: modules/administracao/views/associacoes/formulario.php:146
+#: modules/administracao/views/associacoes/listagem.php:76
+#: modules/administracao/views/associacoes/listagem.php:84
+#: modules/administracao/views/grupos/cadastrar.php:7
+#: modules/administracao/views/grupos/editar.php:7
+#: modules/administracao/views/grupos/grupos.php:64
+#: modules/administracao/views/grupos/grupos.php:73
+#: modules/administracao/views/usuarios/formulario.php:80
+#: modules/administracao/views/usuarios/formulario.php:95
+#: modules/administracao/views/usuarios/usuarios.php:72
+#: modules/administracao/views/usuarios/usuarios.php:82
+#: modules/banners/views/formulario.php:15
+#: modules/banners/views/listagem.php:122
+#: modules/banners/views/listagem.php:130
+#: modules/comum/views/comentarios.php:69
+#: modules/comum/views/comentarios.php:77 modules/comum/views/modal.php:10
+#: modules/contatos/views/negocios/formulario.php:16
+#: modules/contatos/views/negocios/listagem.php:108
+#: modules/contatos/views/negocios/listagem.php:116
+#: modules/eventos/views/categorias/formulario.php:10
+#: modules/eventos/views/categorias/listagem.php:96
+#: modules/eventos/views/categorias/listagem.php:104
+#: modules/eventos/views/evento/formulario.php:24
+#: modules/eventos/views/evento/formulario.php:38
+#: modules/eventos/views/evento/listagem.php:95
+#: modules/eventos/views/evento/listagem.php:104
+#: modules/links/views/formulario.php:16 modules/links/views/listagem.php:90
+#: modules/links/views/listagem.php:98
+#: modules/multimidia/views/categorias/formulario.php:10
+#: modules/multimidia/views/categorias/listagem.php:96
+#: modules/multimidia/views/categorias/listagem.php:104
+#: modules/multimidia/views/documentos/formulario.php:17
+#: modules/multimidia/views/documentos/listagem.php:102
+#: modules/multimidia/views/documentos/listagem.php:110
+#: modules/multimidia/views/fotos/formulario.php:17
+#: modules/multimidia/views/fotos/listagem.php:108
+#: modules/multimidia/views/fotos/listagem.php:116
+#: modules/multimidia/views/podcasts/formulario.php:18
+#: modules/multimidia/views/podcasts/listagem.php:114
+#: modules/multimidia/views/podcasts/listagem.php:123
+#: modules/multimidia/views/videos/formulario.php:17
+#: modules/multimidia/views/videos/listagem.php:109
+#: modules/multimidia/views/videos/listagem.php:118
+#: modules/newsletter/views/newsletter.php:92
+#: modules/newsletter/views/newsletter.php:102
+#: modules/publicidade/views/banners/formulario.php:19
+#: modules/publicidade/views/banners/listagem.php:114
+#: modules/publicidade/views/banners/listagem.php:122
+#: modules/publicidade/views/clientes/formulario.php:27
+#: modules/publicidade/views/clientes/listagem.php:80
+#: modules/publicidade/views/clientes/listagem.php:88
+#: modules/redacao/views/editorial/formulario.php:10
+#: modules/redacao/views/editorial/listagem.php:106
+#: modules/redacao/views/editorial/listagem.php:115
+#: modules/redacao/views/noticia/formulario.php:24
+#: modules/redacao/views/noticia/listagem.php:110
+#: modules/redacao/views/noticia/listagem.php:119
+msgid "Sim"
+msgstr ""
+
+#: core/MY_Controller.php:384
+#: modules/administracao/views/associacoes/formulario.php:92
+#: modules/administracao/views/associacoes/formulario.php:104
+#: modules/administracao/views/associacoes/formulario.php:149
+#: modules/administracao/views/associacoes/listagem.php:79
+#: modules/administracao/views/associacoes/listagem.php:84
+#: modules/administracao/views/grupos/editar.php:10
+#: modules/administracao/views/grupos/grupos.php:67
+#: modules/administracao/views/grupos/grupos.php:73
+#: modules/administracao/views/usuarios/formulario.php:83
+#: modules/administracao/views/usuarios/formulario.php:98
+#: modules/administracao/views/usuarios/usuarios.php:75
+#: modules/administracao/views/usuarios/usuarios.php:82
+#: modules/banners/views/formulario.php:18
+#: modules/banners/views/listagem.php:125
+#: modules/banners/views/listagem.php:130
+#: modules/comum/views/comentarios.php:72
+#: modules/comum/views/comentarios.php:77 modules/comum/views/modal.php:10
+#: modules/contatos/views/negocios/formulario.php:19
+#: modules/contatos/views/negocios/listagem.php:111
+#: modules/contatos/views/negocios/listagem.php:116
+#: modules/eventos/views/categorias/formulario.php:13
+#: modules/eventos/views/categorias/listagem.php:99
+#: modules/eventos/views/categorias/listagem.php:104
+#: modules/eventos/views/evento/formulario.php:27
+#: modules/eventos/views/evento/formulario.php:41
+#: modules/eventos/views/evento/listagem.php:98
+#: modules/eventos/views/evento/listagem.php:104
+#: modules/links/views/formulario.php:19 modules/links/views/listagem.php:93
+#: modules/links/views/listagem.php:98
+#: modules/multimidia/views/categorias/formulario.php:13
+#: modules/multimidia/views/categorias/listagem.php:99
+#: modules/multimidia/views/categorias/listagem.php:104
+#: modules/multimidia/views/documentos/formulario.php:20
+#: modules/multimidia/views/documentos/listagem.php:105
+#: modules/multimidia/views/documentos/listagem.php:110
+#: modules/multimidia/views/fotos/formulario.php:20
+#: modules/multimidia/views/fotos/listagem.php:111
+#: modules/multimidia/views/fotos/listagem.php:116
+#: modules/multimidia/views/podcasts/formulario.php:21
+#: modules/multimidia/views/podcasts/listagem.php:117
+#: modules/multimidia/views/podcasts/listagem.php:123
+#: modules/multimidia/views/videos/formulario.php:20
+#: modules/multimidia/views/videos/listagem.php:112
+#: modules/multimidia/views/videos/listagem.php:118
+#: modules/newsletter/views/newsletter.php:95
+#: modules/newsletter/views/newsletter.php:102
+#: modules/publicidade/views/banners/formulario.php:22
+#: modules/publicidade/views/banners/listagem.php:117
+#: modules/publicidade/views/banners/listagem.php:122
+#: modules/publicidade/views/clientes/formulario.php:30
+#: modules/publicidade/views/clientes/listagem.php:83
+#: modules/publicidade/views/clientes/listagem.php:88
+#: modules/redacao/views/editorial/formulario.php:13
+#: modules/redacao/views/editorial/listagem.php:109
+#: modules/redacao/views/editorial/listagem.php:115
+#: modules/redacao/views/noticia/formulario.php:27
+#: modules/redacao/views/noticia/listagem.php:113
+#: modules/redacao/views/noticia/listagem.php:119
+msgid "Não"
+msgstr ""
+
+#: core/MY_Controller.php:385
+msgid "Pen"
+msgstr ""
+
+#: core/MY_Controller.php:387
+msgid "Deseja vincular/desvincular esse registro?"
+msgstr ""
+
+#: core/MY_Controller.php:475
+#: modules/administracao/controllers/associacoes.php:129
+#: modules/administracao/controllers/grupos.php:107
+#: modules/administracao/controllers/modulos.php:143
+#: modules/administracao/controllers/usuarios.php:119
+#: modules/banners/controllers/banners.php:151
+#: modules/contatos/controllers/negocios.php:127
+#: modules/eventos/controllers/categorias.php:140
+#: modules/eventos/controllers/evento.php:165
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:173
+#: modules/links/controllers/links.php:141
+#: modules/multimidia/controllers/categorias.php:157
+#: modules/multimidia/controllers/documentos.php:155
+#: modules/multimidia/controllers/fotos.php:159
+#: modules/multimidia/controllers/podcasts.php:158
+#: modules/multimidia/controllers/videos.php:156
+#: modules/publicidade/controllers/banners.php:161
+#: modules/publicidade/controllers/clientes.php:113
+#: modules/redacao/controllers/editoriais.php:161
+#: modules/redacao/controllers/noticias.php:166
+msgid "Registro inserido com sucesso!"
+msgstr ""
+
+#: core/MY_Controller.php:482 core/MY_Controller.php:516
+msgid "Erro ao cadastrar as informações."
+msgstr ""
+
+#: core/MY_Controller.php:509
+msgid "Registro atualizado com sucesso!"
+msgstr ""
+
+#: core/MY_Controller.php:546 core/MY_Controller.php:585
+#: modules/administracao/controllers/grupos.php:144
+#: modules/administracao/controllers/usuarios.php:195
+#: modules/administracao/controllers/usuarios.php:237
+#: modules/comum/controllers/comentarios.php:41
+#: modules/comum/controllers/comentarios.php:64
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:261
+msgid "Exclusão efetuada com sucesso!"
+msgstr ""
+
+#: core/MY_Controller.php:549
+msgid "Erro ao tentar excluir o registro!"
+msgstr ""
+
+#: core/MY_Controller.php:552 core/MY_Controller.php:592
+#: modules/comum/controllers/comentarios.php:44
+#: modules/comum/controllers/comentarios.php:66
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:263
+msgid "ID de exclusão inválido"
+msgstr ""
+
+#: core/MY_Controller.php:578
+#: modules/administracao/controllers/usuarios.php:211
+#: modules/comum/controllers/comentarios.php:60
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:257
+msgid "IDs de exclusão inválidos."
+msgstr ""
+
+#: core/MY_Controller.php:589
+msgid "Erro ao excluir os registros!"
+msgstr ""
+
+#: core/MY_Controller.php:615
+#: modules/administracao/controllers/associacoes.php:162
+msgid "Ordem alterada com sucesso"
+msgstr ""
+
+#: core/MY_Controller.php:623 core/MY_Controller.php:666
+msgid "O model do modulo"
+msgstr ""
+
+#: core/MY_Controller.php:623
+msgid "não possui o método sort()"
+msgstr ""
+
+#: core/MY_Controller.php:636 modules/administracao/controllers/grupos.php:187
+#: modules/administracao/controllers/usuarios.php:253
+#: modules/administracao/views/associacoes/listagem.php:53
+#: modules/multimidia/controllers/categorias.php:195
+#: modules/newsletter/views/newsletter.php:63
+msgid "Status"
+msgstr ""
+
+#: core/MY_Controller.php:637 modules/administracao/controllers/grupos.php:188
+#: modules/administracao/controllers/usuarios.php:254
+#: modules/multimidia/controllers/categorias.php:196
+msgid "ID de ativação inválido."
+msgstr ""
+
+#: core/MY_Controller.php:644 modules/multimidia/controllers/categorias.php:202
+msgid "Registro Ativo!"
+msgstr ""
+
+#: core/MY_Controller.php:647 modules/multimidia/controllers/categorias.php:205
+msgid "Registro Inativo!"
+msgstr ""
+
+#: core/MY_Controller.php:659 modules/multimidia/controllers/categorias.php:217
+msgid "Ocorreu um erro ao tentar alterar. Tente novamente mais tarde!"
+msgstr ""
+
+#: core/MY_Controller.php:666
+msgid "não possui método toggleStatus()"
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:48
+#: modules/administracao/controllers/modulos.php:52
+#: modules/banners/controllers/banners.php:56
+#: modules/contatos/controllers/negocios.php:50
+#: modules/eventos/controllers/categorias.php:54
+#: modules/eventos/controllers/evento.php:51
+#: modules/links/controllers/links.php:50
+#: modules/multimidia/controllers/categorias.php:57
+#: modules/multimidia/controllers/documentos.php:56
+#: modules/multimidia/controllers/fotos.php:56
+#: modules/multimidia/controllers/podcasts.php:56
+#: modules/multimidia/controllers/videos.php:56
+#: modules/newsletter/controllers/newsletter.php:36
+#: modules/publicidade/controllers/banners.php:50
+#: modules/redacao/controllers/noticias.php:54
+msgid "Exibindo resultados "
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:48
+#: modules/administracao/controllers/modulos.php:52
+#: modules/banners/controllers/banners.php:56
+#: modules/contatos/controllers/negocios.php:50
+#: modules/eventos/controllers/categorias.php:54
+#: modules/eventos/controllers/evento.php:51
+#: modules/links/controllers/links.php:50
+#: modules/multimidia/controllers/categorias.php:57
+#: modules/multimidia/controllers/documentos.php:56
+#: modules/multimidia/controllers/fotos.php:56
+#: modules/multimidia/controllers/podcasts.php:56
+#: modules/multimidia/controllers/videos.php:56
+#: modules/newsletter/controllers/newsletter.php:36
+#: modules/publicidade/controllers/banners.php:50
+#: modules/redacao/controllers/noticias.php:54
+msgid " de um total de "
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:50
+#: modules/administracao/controllers/modulos.php:54
+#: modules/banners/controllers/banners.php:58
+#: modules/contatos/controllers/negocios.php:52
+#: modules/eventos/controllers/categorias.php:56
+#: modules/eventos/controllers/evento.php:53
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:41
+#: modules/links/controllers/links.php:52
+#: modules/multimidia/controllers/categorias.php:59
+#: modules/multimidia/controllers/documentos.php:58
+#: modules/multimidia/controllers/fotos.php:58
+#: modules/multimidia/controllers/podcasts.php:58
+#: modules/multimidia/controllers/videos.php:58
+#: modules/publicidade/controllers/banners.php:52
+#: modules/redacao/controllers/editoriais.php:52
+#: modules/redacao/controllers/noticias.php:56
+msgid "Não há resultados para esta busca."
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:55
+#: modules/administracao/controllers/associacoes.php:56
+#: modules/administracao/controllers/associacoes.php:107
+#: modules/administracao/controllers/associacoes.php:108
+#: modules/administracao/controllers/associacoes.php:115
+#: modules/eventos/views/evento/formulario.php:12
+#: modules/multimidia/views/documentos/formulario.php:8
+#: modules/multimidia/views/fotos/formulario.php:8
+#: modules/multimidia/views/podcasts/formulario.php:8
+#: modules/multimidia/views/videos/formulario.php:8
+#: modules/publicidade/views/banners/formulario.php:9
+#: modules/redacao/views/noticia/formulario.php:12
+msgid "Associações"
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:101
+#: modules/administracao/controllers/modulos.php:114
+#: modules/banners/controllers/banners.php:117
+#: modules/contatos/controllers/negocios.php:95
+#: modules/eventos/controllers/categorias.php:100
+#: modules/eventos/controllers/evento.php:121
+#: modules/links/controllers/links.php:111
+#: modules/multimidia/controllers/categorias.php:114
+#: modules/multimidia/controllers/documentos.php:117
+#: modules/multimidia/controllers/fotos.php:119
+#: modules/multimidia/controllers/podcasts.php:117
+#: modules/multimidia/controllers/videos.php:117
+#: modules/publicidade/controllers/banners.php:107
+#: modules/redacao/controllers/editoriais.php:117
+#: modules/redacao/controllers/noticias.php:122
+msgid "Você não tem permissão para realizar esta operação."
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:108
+#: modules/administracao/controllers/modulos.php:118
+#: modules/administracao/controllers/usuarios.php:74
+#: modules/administracao/views/associacoes/listagem.php:89
+#: modules/administracao/views/grupos/editar.php:40
+#: modules/administracao/views/grupos/grupos.php:78
+#: modules/administracao/views/modulos/listagem.php:76
+#: modules/administracao/views/usuarios/formulario.php:159
+#: modules/administracao/views/usuarios/usuarios.php:87
+#: modules/banners/controllers/banners.php:121
+#: modules/banners/views/listagem.php:135
+#: modules/contatos/controllers/negocios.php:99
+#: modules/contatos/controllers/pagina_contato.php:42
+#: modules/contatos/views/negocios/listagem.php:121
+#: modules/eventos/controllers/evento.php:125
+#: modules/eventos/views/categorias/listagem.php:109
+#: modules/eventos/views/evento/listagem.php:109
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:128
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:79
+#: modules/links/controllers/links.php:115 modules/links/views/listagem.php:103
+#: modules/multimidia/controllers/categorias.php:117
+#: modules/multimidia/controllers/categorias.php:119
+#: modules/multimidia/controllers/documentos.php:123
+#: modules/multimidia/controllers/fotos.php:126
+#: modules/multimidia/controllers/podcasts.php:123
+#: modules/multimidia/controllers/videos.php:123
+#: modules/multimidia/views/categorias/listagem.php:109
+#: modules/multimidia/views/documentos/listagem.php:115
+#: modules/multimidia/views/fotos/listagem.php:121
+#: modules/multimidia/views/podcasts/listagem.php:130
+#: modules/multimidia/views/videos/listagem.php:123
+#: modules/publicidade/controllers/banners.php:113
+#: modules/publicidade/controllers/clientes.php:85
+#: modules/publicidade/views/clientes/listagem.php:93
+#: modules/redacao/controllers/editoriais.php:123
+#: modules/redacao/controllers/noticias.php:128
+#: modules/redacao/views/editorial/listagem.php:120
+#: modules/routes/views/listagem.php:55
+msgid "Editar"
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:114
+msgid "Cadastrar Associações"
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:115
+#: modules/administracao/controllers/modulos.php:125
+#: modules/administracao/controllers/usuarios.php:81
+#: modules/administracao/views/associacoes/formulario.php:263
+#: modules/administracao/views/associacoes/listagem.php:4
+#: modules/administracao/views/grupos/cadastrar.php:39
+#: modules/administracao/views/grupos/grupos.php:4
+#: modules/administracao/views/modulos/formulario.php:56
+#: modules/administracao/views/modulos/listagem.php:4
+#: modules/administracao/views/usuarios/usuarios.php:4
+#: modules/banners/controllers/banners.php:128
+#: modules/banners/views/formulario.php:128
+#: modules/banners/views/listagem.php:4
+#: modules/contatos/controllers/negocios.php:106
+#: modules/contatos/controllers/pagina_contato.php:47
+#: modules/contatos/views/negocios/formulario.php:70
+#: modules/contatos/views/negocios/listagem.php:4
+#: modules/contatos/views/pagina_contato/formulario.php:26
+#: modules/eventos/controllers/categorias.php:90
+#: modules/eventos/controllers/evento.php:133
+#: modules/eventos/views/categorias/formulario.php:58
+#: modules/eventos/views/categorias/listagem.php:4
+#: modules/eventos/views/evento/listagem.php:4
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:133
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:189
+#: modules/links/controllers/links.php:122
+#: modules/links/views/formulario.php:84 modules/links/views/listagem.php:4
+#: modules/multimidia/controllers/categorias.php:97
+#: modules/multimidia/controllers/categorias.php:99
+#: modules/multimidia/controllers/documentos.php:130
+#: modules/multimidia/controllers/fotos.php:133
+#: modules/multimidia/controllers/podcasts.php:130
+#: modules/multimidia/controllers/videos.php:130
+#: modules/multimidia/views/categorias/formulario.php:49
+#: modules/multimidia/views/categorias/listagem.php:4
+#: modules/multimidia/views/documentos/formulario.php:118
+#: modules/multimidia/views/documentos/listagem.php:4
+#: modules/multimidia/views/fotos/formulario.php:100
+#: modules/multimidia/views/fotos/listagem.php:4
+#: modules/multimidia/views/podcasts/formulario.php:108
+#: modules/multimidia/views/podcasts/listagem.php:4
+#: modules/multimidia/views/videos/formulario.php:82
+#: modules/multimidia/views/videos/listagem.php:4
+#: modules/publicidade/controllers/banners.php:121
+#: modules/publicidade/controllers/clientes.php:91
+#: modules/publicidade/views/banners/formulario.php:221
+#: modules/publicidade/views/banners/listagem.php:4
+#: modules/publicidade/views/clientes/formulario.php:69
+#: modules/publicidade/views/clientes/listagem.php:4
+#: modules/redacao/controllers/editoriais.php:130
+#: modules/redacao/controllers/noticias.php:136
+#: modules/redacao/views/editorial/formulario.php:62
+#: modules/redacao/views/editorial/listagem.php:4
+#: modules/redacao/views/noticia/listagem.php:4
+#: modules/routes/views/listagem.php:4
+msgid "Cadastrar"
+msgstr "Register"
+
+#: modules/administracao/controllers/associacoes.php:132
+#: modules/administracao/controllers/modulos.php:145
+#: modules/banners/controllers/banners.php:153
+#: modules/contatos/controllers/negocios.php:129
+#: modules/eventos/controllers/categorias.php:125
+#: modules/eventos/controllers/evento.php:148
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:176
+#: modules/links/controllers/links.php:143
+#: modules/multimidia/controllers/categorias.php:142
+#: modules/multimidia/controllers/documentos.php:157
+#: modules/multimidia/controllers/fotos.php:161
+#: modules/multimidia/controllers/podcasts.php:160
+#: modules/multimidia/controllers/videos.php:158
+#: modules/publicidade/controllers/banners.php:163
+#: modules/redacao/controllers/editoriais.php:163
+#: modules/redacao/controllers/noticias.php:149
+msgid "Ocorreu um erro inesperado no cadastro"
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:142
+#: modules/administracao/controllers/grupos.php:127
+#: modules/administracao/controllers/modulos.php:166
+#: modules/administracao/controllers/usuarios.php:157
+#: modules/banners/controllers/banners.php:179
+#: modules/contatos/controllers/negocios.php:145
+#: modules/contatos/controllers/pagina_contato.php:66
+#: modules/eventos/controllers/categorias.php:167
+#: modules/eventos/controllers/evento.php:194
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:210
+#: modules/links/controllers/links.php:167
+#: modules/multimidia/controllers/categorias.php:183
+#: modules/multimidia/controllers/documentos.php:183
+#: modules/multimidia/controllers/fotos.php:187
+#: modules/multimidia/controllers/podcasts.php:191
+#: modules/multimidia/controllers/videos.php:184
+#: modules/publicidade/controllers/banners.php:194
+#: modules/publicidade/controllers/clientes.php:155
+#: modules/redacao/controllers/editoriais.php:188
+#: modules/redacao/controllers/noticias.php:195
+msgid "Registro editado com sucesso!"
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:145
+#: modules/administracao/controllers/modulos.php:168
+#: modules/banners/controllers/banners.php:181
+#: modules/contatos/controllers/negocios.php:147
+#: modules/contatos/controllers/pagina_contato.php:68
+#: modules/eventos/controllers/categorias.php:151
+#: modules/eventos/controllers/evento.php:176
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:213
+#: modules/links/controllers/links.php:169
+#: modules/multimidia/controllers/categorias.php:168
+#: modules/multimidia/controllers/documentos.php:185
+#: modules/multimidia/controllers/fotos.php:189
+#: modules/multimidia/controllers/podcasts.php:193
+#: modules/multimidia/controllers/videos.php:186
+#: modules/publicidade/controllers/banners.php:196
+#: modules/redacao/controllers/editoriais.php:190
+#: modules/redacao/controllers/noticias.php:177
+msgid "Ocorreu um erro inesperado na edição"
+msgstr ""
+
+#: modules/administracao/controllers/associacoes.php:148
+msgid "Id Inválido"
+msgstr ""
+
+#: modules/administracao/controllers/modulos.php:70
+#: modules/administracao/controllers/modulos.php:71
+#: modules/administracao/controllers/modulos.php:118
+#: modules/administracao/controllers/modulos.php:125
+msgid "Módulos"
+msgstr ""
+
+#: modules/administracao/controllers/modulos.php:117
+msgid "Editar Módulo"
+msgstr ""
+
+#: modules/administracao/controllers/modulos.php:123
+msgid "Cadastrar Módulo"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:39
+#: modules/administracao/controllers/usuarios.php:40
+#: modules/administracao/controllers/usuarios.php:74
+#: modules/administracao/controllers/usuarios.php:81
+msgid "Usuários"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:40
+#: modules/administracao/controllers/usuarios.php:74
+#: modules/administracao/controllers/usuarios.php:81
+msgid "Administração"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:40
+#: modules/administracao/controllers/usuarios.php:74
+#: modules/administracao/controllers/usuarios.php:81
+msgid "Controle de Usuários"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:73
+msgid "Editar Usuários"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:80
+msgid "Cadastrar Usuários"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:97
+#: modules/administracao/controllers/usuarios.php:133
+#: modules/administracao/views/modulos/formulario.php:38
+#: modules/administracao/views/modulos/listagem.php:54
+#: modules/administracao/views/usuarios/formulario.php:28
+#: modules/comum/views/comentarios.php:45
+#: modules/contatos/controllers/negocios.php:124
+#: modules/contatos/controllers/negocios.php:142
+#: modules/contatos/views/contato/modal.php:9
+#: modules/contatos/views/contato/visualizar.php:28
+#: modules/contatos/views/negocios/formulario.php:28
+#: modules/contatos/views/negocios/listagem.php:57
+#: modules/contatos/views/seja_membro/modal.php:9
+#: modules/contatos/views/seja_membro/visualizar.php:28
+#: modules/links/controllers/links.php:136
+#: modules/links/controllers/links.php:162
+#: modules/links/views/formulario.php:54 modules/links/views/listagem.php:57
+#: modules/newsletter/views/newsletter.php:48
+#: modules/publicidade/controllers/clientes.php:101
+#: modules/publicidade/controllers/clientes.php:126
+#: modules/publicidade/views/clientes/formulario.php:38
+msgid "Nome"
+msgstr "Name"
+
+#: modules/administracao/controllers/usuarios.php:98
+#: modules/administracao/controllers/usuarios.php:134
+#: modules/administracao/views/usuarios/usuarios.php:44
+msgid "Usuário"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:99
+#: modules/administracao/controllers/usuarios.php:135
+#: modules/administracao/views/associacoes/formulario.php:38
+#: modules/administracao/views/usuarios/formulario.php:49
+#: modules/contatos/views/contato/modal.php:10
+#: modules/contatos/views/contato/visualizar.php:29
+#: modules/contatos/views/seja_membro/modal.php:10
+#: modules/contatos/views/seja_membro/visualizar.php:29
+#: modules/newsletter/views/newsletter.php:53
+#: modules/publicidade/controllers/clientes.php:103
+#: modules/publicidade/controllers/clientes.php:128
+#: modules/publicidade/views/clientes/formulario.php:42
+#: modules/publicidade/views/clientes/listagem.php:54
+msgid "E-mail"
+msgstr "E-mail"
+
+#: modules/administracao/controllers/usuarios.php:100
+#: modules/administracao/controllers/usuarios.php:173
+#: modules/administracao/views/usuarios/formulario.php:7
+#: modules/administracao/views/usuarios/formulario.php:67
+#: modules/login/views/login.php:12
+#: modules/publicidade/controllers/clientes.php:104
+#: modules/publicidade/controllers/clientes.php:170
+#: modules/publicidade/views/clientes/formulario.php:6
+#: modules/publicidade/views/clientes/formulario.php:59
+msgid "Senha"
+msgstr "Password"
+
+#: modules/administracao/controllers/usuarios.php:101
+#: modules/administracao/controllers/usuarios.php:174
+#: modules/publicidade/controllers/clientes.php:105
+#: modules/publicidade/controllers/clientes.php:171
+msgid "Repertir Senha"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:102
+#: modules/administracao/controllers/usuarios.php:137
+#: modules/administracao/views/grupos/grupos.php:42
+#: modules/administracao/views/usuarios/usuarios.php:45
+msgid "Grupo"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:104
+#: modules/administracao/controllers/usuarios.php:105
+#: modules/administracao/controllers/usuarios.php:176
+#: modules/administracao/controllers/usuarios.php:177
+#: modules/publicidade/controllers/clientes.php:107
+#: modules/publicidade/controllers/clientes.php:108
+#: modules/publicidade/controllers/clientes.php:173
+#: modules/publicidade/controllers/clientes.php:174
+msgid "Os campos de senhas devem ser preenchidos e devem ser iguais."
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:113
+#: modules/administracao/controllers/usuarios.php:151
+#: modules/publicidade/controllers/clientes.php:150
+msgid "Este nome de usuário está sendo utilizado por outro usuário."
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:115
+#: modules/administracao/controllers/usuarios.php:153
+#: modules/publicidade/controllers/clientes.php:152
+msgid "Este e-mail já está sendo utilizado por outro usuário."
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:181
+#: modules/publicidade/controllers/clientes.php:178
+msgid "Senha alterada com sucesso!"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:199
+msgid "Não foi possível realizar a exclusão."
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:218
+msgid "Registros excluidos com sucesso!"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:226
+msgid "Ocorreu um erro durante a exclusão multipla."
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:243
+msgid "Ocorreu um erro durante a exclusão."
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:258
+msgid "Registro ativado com sucesso!"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:258
+msgid "Registro desativado com sucesso!"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:288
+#: modules/administracao/controllers/usuarios.php:291
+msgid "O arquivo no upload é maior do que o limite definido !"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:294
+#: modules/administracao/controllers/usuarios.php:297
+msgid "o upload não foi completado com sucesso!"
+msgstr ""
+
+#: modules/administracao/controllers/usuarios.php:332
+msgid "Imagem enviada com sucesso!"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:6
+#: modules/multimidia/views/documentos/formulario.php:7
+#: modules/multimidia/views/fotos/formulario.php:6
+msgid "Dados"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:7
+#: modules/eventos/views/evento/formulario.php:9
+msgid "Localização"
+msgstr "Localization"
+
+#: modules/administracao/views/associacoes/formulario.php:8
+msgid "Streaming"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:9
+msgid "Redes Sociais"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:10
+msgid "Formulários"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:11
+msgid "Doações"
+msgstr "Donation"
+
+#: modules/administracao/views/associacoes/formulario.php:18
+#: modules/banners/views/formulario.php:78
+#: modules/contatos/views/pagina_contato/formulario.php:10
+#: modules/eventos/views/categorias/formulario.php:47
+#: modules/eventos/views/evento/formulario.php:101
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:53
+#: modules/multimidia/views/categorias/formulario.php:41
+#: modules/multimidia/views/documentos/formulario.php:94
+#: modules/multimidia/views/fotos/formulario.php:58
+#: modules/multimidia/views/podcasts/formulario.php:70
+#: modules/multimidia/views/videos/formulario.php:58
+#: modules/publicidade/views/banners/formulario.php:123
+#: modules/redacao/views/editorial/formulario.php:49
+#: modules/redacao/views/noticia/formulario.php:77
+#: modules/routes/views/formulario.php:7
+msgid "Título:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:22
+msgid "Associação:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:23
+msgid "Nenhuma associação selecionada"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:29
+#: modules/administracao/views/modulos/formulario.php:42
+msgid "Slug:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:30
+#: modules/administracao/views/modulos/formulario.php:43
+msgid "Slug"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:33
+#: modules/administracao/views/usuarios/formulario.php:35
+#: modules/publicidade/views/clientes/formulario.php:45
+msgid "Telefone:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:34
+#: modules/administracao/views/usuarios/formulario.php:36
+#: modules/contatos/views/contato/modal.php:11
+#: modules/contatos/views/seja_membro/modal.php:11
+#: modules/publicidade/views/clientes/formulario.php:46
+#: modules/publicidade/views/clientes/listagem.php:53
+msgid "Telefone"
+msgstr "Phone"
+
+#: modules/administracao/views/associacoes/formulario.php:37
+#: modules/administracao/views/usuarios/formulario.php:48
+#: modules/comum/views/modal.php:9
+#: modules/publicidade/views/clientes/formulario.php:41
+msgid "E-mail:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:41
+msgid "Domínio:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:42
+#: modules/routes/views/formulario.php:46
+msgid "URL"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:45
+msgid "Analytics:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:46
+msgid "Analytics"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:50
+msgid "Idioma Principal:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:58
+msgid "Idiomas Disponíveis:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:59
+msgid "Nenhum idioma selecionado"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:73
+#: modules/links/views/formulario.php:28
+msgid "Logo"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:86
+#: modules/administracao/views/grupos/cadastrar.php:5
+#: modules/administracao/views/grupos/editar.php:4
+#: modules/administracao/views/usuarios/formulario.php:77
+#: modules/banners/views/formulario.php:12
+#: modules/contatos/views/negocios/formulario.php:13
+#: modules/eventos/views/categorias/formulario.php:7
+#: modules/eventos/views/evento/formulario.php:21
+#: modules/links/views/formulario.php:13
+#: modules/multimidia/views/categorias/formulario.php:7
+#: modules/multimidia/views/documentos/formulario.php:14
+#: modules/multimidia/views/fotos/formulario.php:14
+#: modules/multimidia/views/podcasts/formulario.php:15
+#: modules/multimidia/views/videos/formulario.php:14
+#: modules/publicidade/views/banners/formulario.php:16
+#: modules/publicidade/views/clientes/formulario.php:24
+#: modules/redacao/views/editorial/formulario.php:7
+#: modules/redacao/views/noticia/formulario.php:21
+msgid "Ativo:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:98
+msgid "Site Ativo:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:143
+msgid "Aparece no site:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:157
+msgid "Rádio"
+msgstr "Radio"
+
+#: modules/administracao/views/associacoes/formulario.php:159
+msgid "Frequência:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:160
+msgid "Frequência"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:163
+#: modules/administracao/views/associacoes/formulario.php:175
+msgid "Link do Streaming:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:164
+#: modules/administracao/views/associacoes/formulario.php:176
+msgid "Link do Streaming"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:171
+#: modules/administracao/views/grupos/cadastrar.php:12
+#: modules/administracao/views/grupos/editar.php:16
+#: modules/administracao/views/modulos/formulario.php:37
+#: modules/administracao/views/usuarios/formulario.php:27
+#: modules/comum/views/modal.php:8
+#: modules/contatos/views/negocios/formulario.php:27
+#: modules/links/views/formulario.php:53
+#: modules/publicidade/views/clientes/formulario.php:37
+msgid "Nome:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:172
+msgid "Nome do vídeo"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:193
+msgid "Facebook:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:197
+msgid "Instagram:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:201
+msgid "Youtube:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:205
+msgid "Twitter:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:209
+msgid "Google:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:213
+msgid "Pinterest:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:217
+msgid "Soundcloud:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:221
+msgid "Flickr:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:231
+msgid "Seja um membro:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:232
+#: modules/administracao/views/associacoes/formulario.php:236
+#: modules/administracao/views/associacoes/formulario.php:240
+msgid "Informe os e-mails separados por ,"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:235
+msgid "Contato:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:239
+msgid "Newsletter:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:247
+msgid "Introdução:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:252
+#: modules/contatos/views/pagina_contato/formulario.php:15
+#: modules/eventos/views/evento/formulario.php:113
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:75
+#: modules/links/views/formulario.php:71
+#: modules/multimidia/views/documentos/formulario.php:98
+#: modules/multimidia/views/fotos/formulario.php:62
+#: modules/multimidia/views/videos/formulario.php:66
+#: modules/redacao/views/noticia/formulario.php:89
+msgid "Texto:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:262
+#: modules/administracao/views/grupos/cadastrar.php:37
+#: modules/administracao/views/grupos/editar.php:38
+#: modules/administracao/views/modulos/formulario.php:55
+#: modules/administracao/views/usuarios/formulario.php:158
+#: modules/banners/views/formulario.php:127
+#: modules/comum/views/modal-category.php:22
+#: modules/contatos/views/negocios/formulario.php:69
+#: modules/contatos/views/pagina_contato/formulario.php:25
+#: modules/eventos/views/categorias/formulario.php:57
+#: modules/eventos/views/evento/formulario.php:309
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:188
+#: modules/links/views/formulario.php:83
+#: modules/multimidia/views/categorias/formulario.php:48
+#: modules/multimidia/views/documentos/formulario.php:117
+#: modules/multimidia/views/fotos/formulario.php:99
+#: modules/multimidia/views/fotos/formulario.php:127
+#: modules/multimidia/views/podcasts/formulario.php:107
+#: modules/multimidia/views/videos/formulario.php:81
+#: modules/publicidade/views/banners/formulario.php:220
+#: modules/publicidade/views/clientes/formulario.php:68
+#: modules/redacao/views/editorial/formulario.php:61
+msgid "Cancelar"
+msgstr ""
+
+#: modules/administracao/views/associacoes/formulario.php:263
+#: modules/administracao/views/modulos/formulario.php:56
+#: modules/banners/views/formulario.php:128
+#: modules/contatos/views/negocios/formulario.php:70
+#: modules/contatos/views/pagina_contato/formulario.php:26
+#: modules/eventos/views/categorias/formulario.php:58
+#: modules/eventos/views/evento/formulario.php:282
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:189
+#: modules/links/views/formulario.php:84
+#: modules/multimidia/views/categorias/formulario.php:49
+#: modules/multimidia/views/documentos/formulario.php:118
+#: modules/multimidia/views/fotos/formulario.php:100
+#: modules/multimidia/views/podcasts/formulario.php:108
+#: modules/multimidia/views/videos/formulario.php:82
+#: modules/publicidade/views/banners/formulario.php:221
+#: modules/publicidade/views/clientes/formulario.php:69
+#: modules/redacao/views/editorial/formulario.php:62
+#: modules/redacao/views/noticia/formulario.php:246
+#: modules/routes/views/formulario.php:69
+msgid "Salvar"
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:11
+#: modules/administracao/views/grupos/grupos.php:11
+#: modules/administracao/views/modulos/listagem.php:11
+#: modules/administracao/views/usuarios/usuarios.php:11
+#: modules/banners/views/listagem.php:11 modules/comum/views/comentarios.php:4
+#: modules/contatos/views/negocios/listagem.php:11
+#: modules/eventos/views/categorias/listagem.php:11
+#: modules/eventos/views/evento/listagem.php:11
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:11
+#: modules/links/views/listagem.php:11
+#: modules/multimidia/views/categorias/listagem.php:11
+#: modules/multimidia/views/documentos/listagem.php:11
+#: modules/multimidia/views/fotos/listagem.php:11
+#: modules/multimidia/views/podcasts/listagem.php:11
+#: modules/multimidia/views/videos/listagem.php:11
+#: modules/publicidade/views/banners/listagem.php:11
+#: modules/publicidade/views/clientes/listagem.php:11
+#: modules/redacao/views/editorial/listagem.php:11
+#: modules/redacao/views/noticia/listagem.php:11
+#: modules/routes/views/listagem.php:11
+msgid "Visualizar: 10"
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:12
+#: modules/administracao/views/grupos/grupos.php:12
+#: modules/administracao/views/modulos/listagem.php:12
+#: modules/administracao/views/usuarios/usuarios.php:12
+#: modules/banners/views/listagem.php:12 modules/comum/views/comentarios.php:5
+#: modules/contatos/views/negocios/listagem.php:12
+#: modules/eventos/views/categorias/listagem.php:12
+#: modules/eventos/views/evento/listagem.php:12
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:12
+#: modules/links/views/listagem.php:12
+#: modules/multimidia/views/categorias/listagem.php:12
+#: modules/multimidia/views/documentos/listagem.php:12
+#: modules/multimidia/views/fotos/listagem.php:12
+#: modules/multimidia/views/podcasts/listagem.php:12
+#: modules/multimidia/views/videos/listagem.php:12
+#: modules/publicidade/views/banners/listagem.php:12
+#: modules/publicidade/views/clientes/listagem.php:12
+#: modules/redacao/views/editorial/listagem.php:12
+#: modules/redacao/views/noticia/listagem.php:12
+#: modules/routes/views/listagem.php:12
+msgid "Visualizar: 25"
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:13
+#: modules/administracao/views/grupos/grupos.php:13
+#: modules/administracao/views/modulos/listagem.php:13
+#: modules/administracao/views/usuarios/usuarios.php:13
+#: modules/banners/views/listagem.php:13 modules/comum/views/comentarios.php:6
+#: modules/contatos/views/negocios/listagem.php:13
+#: modules/eventos/views/categorias/listagem.php:13
+#: modules/eventos/views/evento/listagem.php:13
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:13
+#: modules/links/views/listagem.php:13
+#: modules/multimidia/views/categorias/listagem.php:13
+#: modules/multimidia/views/documentos/listagem.php:13
+#: modules/multimidia/views/fotos/listagem.php:13
+#: modules/multimidia/views/podcasts/listagem.php:13
+#: modules/multimidia/views/videos/listagem.php:13
+#: modules/publicidade/views/banners/listagem.php:13
+#: modules/publicidade/views/clientes/listagem.php:13
+#: modules/redacao/views/editorial/listagem.php:13
+#: modules/redacao/views/noticia/listagem.php:13
+#: modules/routes/views/listagem.php:13
+msgid "Visualizar: 50"
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:14
+#: modules/administracao/views/grupos/grupos.php:14
+#: modules/administracao/views/modulos/listagem.php:14
+#: modules/administracao/views/usuarios/usuarios.php:14
+#: modules/banners/views/listagem.php:14 modules/comum/views/comentarios.php:7
+#: modules/contatos/views/negocios/listagem.php:14
+#: modules/eventos/views/categorias/listagem.php:14
+#: modules/eventos/views/evento/listagem.php:14
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:14
+#: modules/links/views/listagem.php:14
+#: modules/multimidia/views/categorias/listagem.php:14
+#: modules/multimidia/views/documentos/listagem.php:14
+#: modules/multimidia/views/fotos/listagem.php:14
+#: modules/multimidia/views/podcasts/listagem.php:14
+#: modules/multimidia/views/videos/listagem.php:14
+#: modules/publicidade/views/banners/listagem.php:14
+#: modules/publicidade/views/clientes/listagem.php:14
+#: modules/redacao/views/editorial/listagem.php:14
+#: modules/redacao/views/noticia/listagem.php:14
+#: modules/routes/views/listagem.php:14
+msgid "Visualizar: 100"
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:19
+#: modules/administracao/views/grupos/grupos.php:19
+#: modules/administracao/views/modulos/listagem.php:19
+#: modules/administracao/views/usuarios/usuarios.php:19
+#: modules/banners/views/listagem.php:19 modules/comum/views/comentarios.php:12
+#: modules/contatos/views/contato/visualizar.php:4
+#: modules/contatos/views/negocios/listagem.php:19
+#: modules/contatos/views/seja_membro/visualizar.php:4
+#: modules/eventos/views/categorias/listagem.php:19
+#: modules/eventos/views/evento/listagem.php:19
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:19
+#: modules/links/views/listagem.php:19
+#: modules/multimidia/views/categorias/listagem.php:19
+#: modules/multimidia/views/documentos/listagem.php:19
+#: modules/multimidia/views/fotos/listagem.php:19
+#: modules/multimidia/views/podcasts/listagem.php:19
+#: modules/multimidia/views/videos/listagem.php:19
+#: modules/newsletter/views/newsletter.php:11
+#: modules/publicidade/views/banners/listagem.php:19
+#: modules/publicidade/views/clientes/listagem.php:19
+#: modules/redacao/views/editorial/listagem.php:19
+#: modules/redacao/views/noticia/listagem.php:19
+#: modules/routes/views/listagem.php:19
+msgid "Buscar por..."
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:29
+#: modules/administracao/views/modulos/listagem.php:29
+#: modules/banners/views/listagem.php:29 modules/comum/views/comentarios.php:22
+#: modules/contatos/views/negocios/listagem.php:29
+#: modules/eventos/views/categorias/listagem.php:29
+#: modules/eventos/views/evento/listagem.php:29
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:29
+#: modules/links/views/listagem.php:29
+#: modules/multimidia/views/categorias/listagem.php:29
+#: modules/multimidia/views/documentos/listagem.php:29
+#: modules/multimidia/views/fotos/listagem.php:29
+#: modules/multimidia/views/podcasts/listagem.php:29
+#: modules/multimidia/views/videos/listagem.php:29
+#: modules/publicidade/views/banners/listagem.php:29
+#: modules/publicidade/views/clientes/listagem.php:29
+#: modules/redacao/views/editorial/listagem.php:28
+#: modules/redacao/views/noticia/listagem.php:28
+#: modules/routes/views/listagem.php:29
+msgid "Limpar Busca"
+msgstr "Clear Search"
+
+#: modules/administracao/views/associacoes/listagem.php:52
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:45
+msgid "Hierarquia"
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:54
+#: modules/administracao/views/grupos/grupos.php:44
+#: modules/administracao/views/modulos/listagem.php:57
+#: modules/administracao/views/usuarios/usuarios.php:47
+#: modules/banners/views/listagem.php:78 modules/comum/views/comentarios.php:47
+#: modules/contatos/views/contato/visualizar.php:33
+#: modules/contatos/views/negocios/listagem.php:80
+#: modules/contatos/views/seja_membro/visualizar.php:33
+#: modules/eventos/views/categorias/listagem.php:70
+#: modules/eventos/views/evento/listagem.php:70
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:47
+#: modules/links/views/listagem.php:65
+#: modules/multimidia/views/categorias/listagem.php:70
+#: modules/multimidia/views/documentos/listagem.php:75
+#: modules/multimidia/views/fotos/listagem.php:80
+#: modules/multimidia/views/podcasts/listagem.php:85
+#: modules/multimidia/views/videos/listagem.php:80
+#: modules/newsletter/views/newsletter.php:66
+#: modules/publicidade/views/banners/listagem.php:85
+#: modules/publicidade/views/clientes/listagem.php:56
+#: modules/redacao/views/editorial/listagem.php:80
+#: modules/redacao/views/noticia/listagem.php:87
+#: modules/routes/views/listagem.php:44
+msgid "Ações"
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:102
+#: modules/administracao/views/modulos/listagem.php:87
+#: modules/banners/views/listagem.php:148
+#: modules/contatos/views/contato/visualizar.php:66
+#: modules/contatos/views/negocios/listagem.php:134
+#: modules/contatos/views/seja_membro/visualizar.php:66
+#: modules/eventos/views/categorias/listagem.php:122
+#: modules/eventos/views/evento/listagem.php:122
+#: modules/links/views/listagem.php:116
+#: modules/multimidia/views/categorias/listagem.php:122
+#: modules/multimidia/views/documentos/listagem.php:128
+#: modules/multimidia/views/fotos/listagem.php:134
+#: modules/multimidia/views/podcasts/listagem.php:143
+#: modules/multimidia/views/videos/listagem.php:136
+#: modules/newsletter/views/newsletter.php:123
+#: modules/publicidade/views/banners/listagem.php:140
+#: modules/redacao/views/editorial/listagem.php:133
+#: modules/redacao/views/noticia/listagem.php:151
+#: modules/routes/views/listagem.php:72
+msgid "Nenhum dado cadastrado."
+msgstr ""
+
+#: modules/administracao/views/associacoes/listagem.php:108
+#: modules/administracao/views/grupos/grupos.php:92
+#: modules/administracao/views/usuarios/usuarios.php:107
+#: modules/banners/views/listagem.php:154
+#: modules/comum/views/comentarios.php:102
+#: modules/contatos/views/negocios/listagem.php:140
+#: modules/eventos/views/categorias/listagem.php:128
+#: modules/eventos/views/evento/listagem.php:128
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:100
+#: modules/links/views/listagem.php:122
+#: modules/multimidia/views/categorias/listagem.php:128
+#: modules/multimidia/views/documentos/listagem.php:134
+#: modules/multimidia/views/fotos/listagem.php:140
+#: modules/multimidia/views/podcasts/listagem.php:149
+#: modules/multimidia/views/videos/listagem.php:142
+#: modules/newsletter/views/newsletter.php:131
+#: modules/publicidade/views/banners/listagem.php:146
+#: modules/publicidade/views/clientes/listagem.php:112
+#: modules/redacao/views/editorial/listagem.php:139
+#: modules/redacao/views/noticia/listagem.php:157
+msgid "Excluir selecionados"
+msgstr ""
+
+#: modules/administracao/views/associacoes/tab_association.php:3
+msgid "Selecione uma associação:"
+msgstr ""
+
+#: modules/administracao/views/associacoes/tab_association.php:13
+#: modules/contatos/views/contato/modal.php:8
+#: modules/contatos/views/contato/visualizar.php:31
+#: modules/contatos/views/negocios/formulario.php:32
+#: modules/contatos/views/negocios/listagem.php:72
+#: modules/contatos/views/seja_membro/modal.php:8
+#: modules/contatos/views/seja_membro/visualizar.php:31
+#: modules/eventos/controllers/categorias.php:128
+#: modules/eventos/controllers/categorias.php:155
+#: modules/eventos/controllers/evento.php:153
+#: modules/eventos/controllers/evento.php:182
+#: modules/eventos/views/categorias/formulario.php:20
+#: modules/eventos/views/categorias/listagem.php:62
+#: modules/eventos/views/evento/formulario.php:49
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:156
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:44
+#: modules/multimidia/controllers/documentos.php:142
+#: modules/multimidia/controllers/documentos.php:170
+#: modules/multimidia/controllers/fotos.php:146
+#: modules/multimidia/controllers/fotos.php:174
+#: modules/multimidia/controllers/podcasts.php:143
+#: modules/multimidia/controllers/videos.php:143
+#: modules/multimidia/controllers/videos.php:171
+#: modules/multimidia/views/categorias/formulario.php:21
+#: modules/multimidia/views/categorias/listagem.php:62
+#: modules/multimidia/views/documentos/formulario.php:27
+#: modules/multimidia/views/documentos/listagem.php:67
+#: modules/multimidia/views/fotos/formulario.php:27
+#: modules/multimidia/views/fotos/listagem.php:72
+#: modules/multimidia/views/podcasts/formulario.php:28
+#: modules/multimidia/views/podcasts/listagem.php:77
+#: modules/multimidia/views/videos/formulario.php:27
+#: modules/multimidia/views/videos/listagem.php:72
+#: modules/publicidade/views/banners/formulario.php:42
+#: modules/publicidade/views/banners/formulario.php:192
+#: modules/redacao/controllers/editoriais.php:149
+#: modules/redacao/controllers/editoriais.php:176
+#: modules/redacao/controllers/noticias.php:154
+#: modules/redacao/controllers/noticias.php:183
+#: modules/redacao/views/editorial/formulario.php:21
+#: modules/redacao/views/editorial/listagem.php:72
+#: modules/redacao/views/noticia/formulario.php:35
+msgid "Associação"
+msgstr ""
+
+#: modules/administracao/views/associacoes/tab_association.php:14
+#: modules/eventos/controllers/evento.php:152
+#: modules/eventos/controllers/evento.php:181
+#: modules/eventos/views/evento/formulario.php:73
+#: modules/multimidia/controllers/documentos.php:143
+#: modules/multimidia/controllers/documentos.php:171
+#: modules/multimidia/controllers/fotos.php:147
+#: modules/multimidia/controllers/fotos.php:175
+#: modules/multimidia/controllers/podcasts.php:144
+#: modules/multimidia/controllers/videos.php:144
+#: modules/multimidia/controllers/videos.php:172
+#: modules/multimidia/views/documentos/formulario.php:36
+#: modules/multimidia/views/fotos/formulario.php:36
+#: modules/multimidia/views/fotos/listagem.php:67
+#: modules/multimidia/views/podcasts/formulario.php:42
+#: modules/multimidia/views/podcasts/listagem.php:72
+#: modules/multimidia/views/videos/formulario.php:36
+#: modules/multimidia/views/videos/listagem.php:67
+msgid "Categoria"
+msgstr ""
+
+#: modules/administracao/views/associacoes/tab_association.php:15
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:163
+#: modules/publicidade/views/banners/formulario.php:193
+msgid "Ação"
+msgstr ""
+
+#: modules/administracao/views/grupos/cadastrar.php:2
+#: modules/administracao/views/grupos/editar.php:2
+msgid "Informações do Grupo"
+msgstr ""
+
+#: modules/administracao/views/grupos/cadastrar.php:27
+#: modules/administracao/views/grupos/editar.php:30
+#: modules/administracao/views/usuarios/formulario.php:130
+msgid "Permissões"
+msgstr ""
+
+#: modules/administracao/views/grupos/grupos.php:43
+#: modules/administracao/views/usuarios/usuarios.php:46
+#: modules/banners/views/listagem.php:75
+#: modules/contatos/views/negocios/listagem.php:77
+#: modules/eventos/views/categorias/listagem.php:67
+#: modules/eventos/views/evento/listagem.php:67
+#: modules/links/views/listagem.php:62
+#: modules/multimidia/views/categorias/listagem.php:67
+#: modules/multimidia/views/documentos/listagem.php:72
+#: modules/multimidia/views/fotos/listagem.php:77
+#: modules/multimidia/views/podcasts/listagem.php:82
+#: modules/multimidia/views/videos/listagem.php:77
+#: modules/publicidade/views/banners/listagem.php:82
+#: modules/publicidade/views/clientes/listagem.php:55
+#: modules/redacao/views/editorial/listagem.php:77
+#: modules/redacao/views/noticia/listagem.php:84
+msgid "Ativo"
+msgstr ""
+
+#: modules/administracao/views/modulos/formulario.php:6
+#: modules/banners/views/formulario.php:6
+#: modules/contatos/views/negocios/formulario.php:6
+#: modules/eventos/views/evento/formulario.php:7
+#: modules/links/views/formulario.php:6
+#: modules/multimidia/views/podcasts/formulario.php:7
+#: modules/multimidia/views/videos/formulario.php:7
+#: modules/publicidade/views/banners/formulario.php:6
+#: modules/redacao/views/noticia/formulario.php:7
+msgid "Dados Gerais"
+msgstr ""
+
+#: modules/administracao/views/modulos/formulario.php:13
+msgid "Ícone:"
+msgstr ""
+
+#: modules/administracao/views/modulos/formulario.php:14
+msgid "Ícone"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:4
+#: modules/publicidade/views/clientes/formulario.php:3
+msgid "Alterar Senha"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:6
+#: modules/publicidade/views/clientes/formulario.php:5
+msgid "Nova Senha:"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:10
+#: modules/administracao/views/usuarios/formulario.php:70
+#: modules/publicidade/views/clientes/formulario.php:9
+#: modules/publicidade/views/clientes/formulario.php:62
+msgid "Repetir Senha:"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:11
+#: modules/administracao/views/usuarios/formulario.php:71
+#: modules/esqueci/views/esqueci.php:24
+#: modules/publicidade/views/clientes/formulario.php:10
+#: modules/publicidade/views/clientes/formulario.php:63
+msgid "Repetir Senha"
+msgstr "Repeat the Password"
+
+#: modules/administracao/views/usuarios/formulario.php:14
+#: modules/administracao/views/usuarios/formulario.php:121
+#: modules/publicidade/views/clientes/formulario.php:13
+msgid "Alterar"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:24
+msgid "Informações do Usuário"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:31
+msgid "Nome de usuário:"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:39
+msgid "Associação Principal:"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:40
+msgid "Selecione uma associação"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:54
+msgid "Associações Disponíveis:"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:55
+msgid "Selecione as associações"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:66
+#: modules/publicidade/views/clientes/formulario.php:58
+msgid "Senha:"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:92
+msgid "Administrador:"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:108
+msgid "Avatar"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:119
+msgid "Excluir Imagem"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:121
+#: modules/esqueci/views/esqueci.php:11 modules/esqueci/views/esqueci.php:28
+msgid "Enviar"
+msgstr "Send"
+
+#: modules/administracao/views/usuarios/formulario.php:121
+#: modules/banners/views/formulario.php:27
+#: modules/multimidia/controllers/podcasts.php:176
+#: modules/multimidia/views/documentos/formulario.php:70
+#: modules/publicidade/controllers/banners.php:152
+#: modules/publicidade/controllers/banners.php:182
+#: modules/publicidade/views/banners/formulario.php:97
+msgid "Imagem"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:134
+msgid "Grupo:"
+msgstr ""
+
+#: modules/administracao/views/usuarios/formulario.php:136
+msgid "Selecione o grupo do usuário"
+msgstr ""
+
+#: modules/administracao/views/usuarios/usuarios.php:101
+#: modules/publicidade/views/clientes/listagem.php:106
+msgid "Nenhum usuário cadastrado."
+msgstr ""
+
+#: modules/banners/controllers/banners.php:74
+#: modules/banners/controllers/banners.php:75
+#: modules/banners/controllers/banners.php:121
+#: modules/banners/controllers/banners.php:128
+#: modules/publicidade/controllers/banners.php:66
+#: modules/publicidade/controllers/banners.php:67
+#: modules/publicidade/controllers/banners.php:113
+#: modules/publicidade/controllers/banners.php:121
+msgid "Banners"
+msgstr ""
+
+#: modules/banners/controllers/banners.php:120
+#: modules/publicidade/controllers/banners.php:112
+msgid "Editar Banner"
+msgstr ""
+
+#: modules/banners/controllers/banners.php:126
+#: modules/publicidade/controllers/banners.php:119
+msgid "Cadastrar Banner"
+msgstr ""
+
+#: modules/banners/controllers/banners.php:139
+#: modules/banners/controllers/banners.php:166
+#: modules/banners/views/formulario.php:45
+#: modules/banners/views/listagem.php:35
+msgid "Área"
+msgstr ""
+
+#: modules/banners/views/formulario.php:46
+#: modules/banners/views/formulario.php:89
+#: modules/links/views/formulario.php:64
+#: modules/publicidade/views/banners/formulario.php:132
+msgid "Selecione o destino aonde o link irá abrir"
+msgstr ""
+
+#: modules/banners/views/formulario.php:47
+#: modules/banners/views/listagem.php:38
+msgid "Grande"
+msgstr ""
+
+#: modules/banners/views/formulario.php:48
+#: modules/banners/views/listagem.php:39
+msgid "Pequeno"
+msgstr ""
+
+#: modules/banners/views/formulario.php:53
+#: modules/banners/views/listagem.php:65
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:67
+#: modules/multimidia/views/categorias/documentos.php:2
+#: modules/publicidade/controllers/banners.php:145
+#: modules/publicidade/controllers/banners.php:177
+#: modules/publicidade/views/banners/formulario.php:86
+#: modules/publicidade/views/banners/listagem.php:72
+msgid "Tipo"
+msgstr ""
+
+#: modules/banners/views/formulario.php:55
+#: modules/banners/views/listagem.php:101
+msgid "Banner"
+msgstr ""
+
+#: modules/banners/views/formulario.php:56
+#: modules/banners/views/formulario.php:101
+#: modules/banners/views/listagem.php:104
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:162
+msgid "Notícia"
+msgstr ""
+
+#: modules/banners/views/formulario.php:57
+#: modules/banners/views/listagem.php:107
+msgid "Streaming Vídeo"
+msgstr ""
+
+#: modules/banners/views/formulario.php:58
+#: modules/banners/views/listagem.php:110
+msgid "Streaming Áudio"
+msgstr ""
+
+#: modules/banners/views/formulario.php:59
+#: modules/banners/views/formulario.php:112
+#: modules/banners/views/listagem.php:113
+#: modules/eventos/controllers/categorias.php:90
+msgid "Eventos"
+msgstr "Events"
+
+#: modules/banners/views/formulario.php:83
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:85
+#: modules/links/views/formulario.php:58
+#: modules/multimidia/views/videos/formulario.php:62
+#: modules/publicidade/views/banners/formulario.php:127
+msgid "Link:"
+msgstr ""
+
+#: modules/banners/views/formulario.php:88
+#: modules/links/views/formulario.php:63
+#: modules/publicidade/views/banners/formulario.php:131
+msgid "Abrir Link"
+msgstr ""
+
+#: modules/banners/views/formulario.php:90
+#: modules/links/views/formulario.php:65
+#: modules/publicidade/views/banners/formulario.php:133
+msgid "Mesma Janela"
+msgstr ""
+
+#: modules/banners/views/formulario.php:91
+#: modules/links/views/formulario.php:66
+#: modules/publicidade/views/banners/formulario.php:134
+msgid "Nova Janela"
+msgstr ""
+
+#: modules/banners/views/formulario.php:102
+msgid "Selecione a notícia"
+msgstr ""
+
+#: modules/banners/views/formulario.php:113
+msgid "Selecione o evento"
+msgstr ""
+
+#: modules/banners/views/listagem.php:37
+msgid "Selecione a área"
+msgstr ""
+
+#: modules/comum/controllers/comentarios.php:16
+msgid "Esta página não existe ;("
+msgstr ""
+
+#: modules/comum/controllers/comentarios.php:24
+msgid "ID do comentário inválido."
+msgstr ""
+
+#: modules/comum/controllers/comentarios.php:28
+msgid "Comentário aprovado com sucesso!"
+msgstr ""
+
+#: modules/comum/controllers/comentarios.php:28
+msgid "Comentário desaprovado com sucesso!"
+msgstr ""
+
+#: modules/comum/views/breadcrumb.php:3
+msgid "Home"
+msgstr "Home"
+
+#: modules/comum/views/comentarios.php:44
+#: modules/contatos/views/contato/visualizar.php:32
+#: modules/contatos/views/seja_membro/visualizar.php:32
+#: modules/eventos/views/evento/listagem.php:62
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:42
+#: modules/multimidia/views/documentos/listagem.php:62
+#: modules/multimidia/views/fotos/listagem.php:57
+#: modules/multimidia/views/podcasts/listagem.php:57
+#: modules/multimidia/views/videos/listagem.php:57
+#: modules/newsletter/views/newsletter.php:58
+msgid "Data"
+msgstr ""
+
+#: modules/comum/views/comentarios.php:46
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:229
+msgid "Aprovado"
+msgstr ""
+
+#: modules/comum/views/comentarios.php:82
+#: modules/contatos/views/contato/visualizar.php:52
+#: modules/contatos/views/seja_membro/visualizar.php:52
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:77
+msgid "Visualizar"
+msgstr ""
+
+#: modules/comum/views/comentarios.php:95
+msgid "Nenhum comentário"
+msgstr ""
+
+#: modules/comum/views/comentarios.php:95
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:92
+msgid "encontrado"
+msgstr ""
+
+#: modules/comum/views/comentarios.php:95
+msgid "enviado"
+msgstr ""
+
+#: modules/comum/views/footer.php:2
+msgid "Todos os direitos reservados - Versão"
+msgstr ""
+
+#: modules/comum/views/header.php:13
+msgid "Idioma"
+msgstr ""
+
+#: modules/comum/views/header.php:13
+msgid "IDIOMA"
+msgstr ""
+
+#: modules/comum/views/header.php:34
+msgid "Configurações"
+msgstr ""
+
+#: modules/comum/views/header.php:35
+msgid "Sair"
+msgstr ""
+
+#: modules/comum/views/modal-category.php:5
+msgid "Escolha uma categoria para vincular"
+msgstr ""
+
+#: modules/comum/views/modal-category.php:5
+msgid "Escolha uma categoria para desvincular"
+msgstr ""
+
+#: modules/comum/views/modal-category.php:11
+#: modules/eventos/views/evento/formulario.php:74
+#: modules/multimidia/views/documentos/formulario.php:37
+#: modules/multimidia/views/fotos/formulario.php:37
+#: modules/multimidia/views/podcasts/formulario.php:43
+#: modules/multimidia/views/videos/formulario.php:37
+msgid "Selecione a categoria"
+msgstr ""
+
+#: modules/comum/views/modal-category.php:23
+msgid "Vincular"
+msgstr ""
+
+#: modules/comum/views/modal-category.php:23
+msgid "Desvincular"
+msgstr ""
+
+#: modules/comum/views/modal-template-2.php:15
+msgid "Data Publicação:"
+msgstr ""
+
+#: modules/comum/views/modal-template-2.php:28
+msgid "Publicado Por:"
+msgstr ""
+
+#: modules/comum/views/modal.php:5
+msgid "Comentário recebido em:"
+msgstr ""
+
+#: modules/comum/views/modal.php:10
+msgid "Aprovado:"
+msgstr ""
+
+#: modules/comum/views/modal.php:11
+msgid "IP:"
+msgstr ""
+
+#: modules/comum/views/modal.php:12
+msgid "Comentado no site:"
+msgstr ""
+
+#: modules/comum/views/modal.php:13
+msgid "Mensagem:"
+msgstr ""
+
+#: modules/contatos/controllers/negocios.php:66
+#: modules/contatos/controllers/negocios.php:67
+#: modules/contatos/controllers/negocios.php:99
+#: modules/contatos/controllers/negocios.php:106
+msgid "Contatos de Negócio"
+msgstr ""
+
+#: modules/contatos/controllers/negocios.php:98
+msgid "Editar Contatos de Negócio"
+msgstr ""
+
+#: modules/contatos/controllers/negocios.php:104
+msgid "Cadastrar Contatos de Negócio"
+msgstr ""
+
+#: modules/contatos/controllers/pagina_contato.php:41
+msgid "Editar Página de Contato"
+msgstr ""
+
+#: modules/contatos/controllers/pagina_contato.php:42
+#: modules/contatos/controllers/pagina_contato.php:47
+msgid "Página de Contato"
+msgstr ""
+
+#: modules/contatos/controllers/pagina_contato.php:46
+msgid "Cadastrar Página de Contato"
+msgstr ""
+
+#: modules/contatos/views/contato/modal.php:5
+#: modules/contatos/views/seja_membro/modal.php:5
+msgid "E-mail recebido em"
+msgstr ""
+
+#: modules/contatos/views/contato/modal.php:12
+#: modules/contatos/views/contato/visualizar.php:30
+#: modules/contatos/views/negocios/formulario.php:60
+#: modules/contatos/views/negocios/formulario.php:61
+#: modules/contatos/views/negocios/listagem.php:62
+#: modules/contatos/views/seja_membro/modal.php:12
+#: modules/contatos/views/seja_membro/visualizar.php:30
+#: modules/endereco/views/endereco.php:26
+msgid "Cidade"
+msgstr "City"
+
+#: modules/contatos/views/contato/modal.php:13
+#: modules/contatos/views/negocios/formulario.php:55
+#: modules/contatos/views/negocios/formulario.php:56
+#: modules/contatos/views/seja_membro/modal.php:13
+msgid "Estado"
+msgstr "Province/Region"
+
+#: modules/contatos/views/contato/modal.php:14
+#: modules/contatos/views/seja_membro/modal.php:14
+msgid "Assunto"
+msgstr ""
+
+#: modules/contatos/views/contato/modal.php:15
+#: modules/contatos/views/seja_membro/modal.php:15
+msgid "Mensagem"
+msgstr "Message"
+
+#: modules/contatos/views/contato/visualizar.php:18
+#: modules/contatos/views/seja_membro/visualizar.php:18
+#: modules/newsletter/views/newsletter.php:24
+msgid "Exportar"
+msgstr ""
+
+#: modules/contatos/views/contato/visualizar.php:40
+#: modules/contatos/views/seja_membro/visualizar.php:40
+msgid "Mensagem Lida"
+msgstr ""
+
+#: modules/contatos/views/contato/visualizar.php:40
+#: modules/contatos/views/seja_membro/visualizar.php:40
+msgid "Mensagem Nova"
+msgstr ""
+
+#: modules/contatos/views/contato/visualizar.php:49
+#: modules/contatos/views/seja_membro/visualizar.php:49
+msgid "Responder"
+msgstr ""
+
+#: modules/contatos/views/negocios/formulario.php:33
+#: modules/eventos/views/evento/formulario.php:50
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:25
+#: modules/publicidade/views/banners/formulario.php:43
+#: modules/redacao/views/noticia/formulario.php:36
+msgid "Selecione o Site"
+msgstr ""
+
+#: modules/contatos/views/negocios/formulario.php:40
+#: modules/contatos/views/negocios/formulario.php:41
+#: modules/endereco/views/endereco.php:20
+msgid "CEP"
+msgstr ""
+
+#: modules/contatos/views/negocios/formulario.php:45
+#: modules/contatos/views/negocios/formulario.php:46
+msgid "Endereço"
+msgstr ""
+
+#: modules/contatos/views/negocios/formulario.php:50
+#: modules/contatos/views/negocios/formulario.php:51
+#: modules/endereco/views/endereco.php:29
+msgid "Bairro"
+msgstr ""
+
+#: modules/contatos/views/negocios/listagem.php:67
+msgid "UF"
+msgstr ""
+
+#: modules/endereco/views/endereco.php:13
+msgid "Selecione o país"
+msgstr ""
+
+#: modules/endereco/views/endereco.php:23
+msgid "Estado/Província"
+msgstr ""
+
+#: modules/endereco/views/endereco.php:32
+msgid "Rua"
+msgstr ""
+
+#: modules/endereco/views/endereco.php:35
+msgid "Número"
+msgstr ""
+
+#: modules/endereco/views/endereco.php:38
+msgid "Complemento"
+msgstr ""
+
+#: modules/endereco/views/endereco.php:40
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:10
+msgid "Buscar"
+msgstr "Search"
+
+#: modules/esqueci/views/esqueci.php:2
+msgid "Esqueci minha Senha"
+msgstr ""
+
+#: modules/esqueci/views/esqueci.php:8
+msgid "E-mail/Usuário"
+msgstr ""
+
+#: modules/esqueci/views/esqueci.php:13 modules/esqueci/views/esqueci.php:30
+msgid "Voltar"
+msgstr "Back"
+
+#: modules/esqueci/views/esqueci.php:15
+msgid ""
+"Informe seu nome de usuário ou seu e-mail de cadastro e lhe enviaremos um "
+"link para que possa alterar a sua senha."
+msgstr ""
+
+#: modules/esqueci/views/esqueci.php:20
+msgid "Nova Senha"
+msgstr ""
+
+#: modules/esqueci/views/esqueci.php:21
+msgid "Insira sua Nova Senha"
+msgstr ""
+
+#: modules/esqueci/views/esqueci.php:25
+msgid "Repita sua Nova Senha"
+msgstr ""
+
+#: modules/eventos/controllers/categorias.php:72
+#: modules/eventos/controllers/categorias.php:73
+#: modules/eventos/controllers/categorias.php:90
+#: modules/eventos/controllers/categorias.php:104
+#: modules/multimidia/controllers/categorias.php:81
+#: modules/multimidia/controllers/categorias.php:82
+#: modules/multimidia/controllers/categorias.php:99
+#: modules/multimidia/controllers/categorias.php:119
+msgid "Categorias"
+msgstr ""
+
+#: modules/eventos/controllers/categorias.php:88
+msgid "Categorias de Eventos - Cadastrar"
+msgstr ""
+
+#: modules/eventos/controllers/categorias.php:89
+#: modules/multimidia/controllers/categorias.php:98
+msgid "Cadastrar Categoria"
+msgstr ""
+
+#: modules/eventos/controllers/categorias.php:103
+msgid "Editar Categoria"
+msgstr ""
+
+#: modules/eventos/controllers/evento.php:67
+#: modules/eventos/controllers/evento.php:68
+#: modules/eventos/controllers/evento.php:125
+#: modules/eventos/controllers/evento.php:133
+msgid "Evento"
+msgstr ""
+
+#: modules/eventos/controllers/evento.php:124
+msgid "Editar Evento"
+msgstr ""
+
+#: modules/eventos/controllers/evento.php:131
+msgid "Cadastrar Evento"
+msgstr ""
+
+#: modules/eventos/controllers/evento.php:151
+#: modules/eventos/controllers/evento.php:180
+#: modules/eventos/views/evento/formulario.php:63
+#: modules/multimidia/views/podcasts/formulario.php:38
+#: modules/publicidade/views/clientes/formulario.php:50
+#: modules/publicidade/views/clientes/listagem.php:52
+#: modules/redacao/controllers/noticias.php:152
+#: modules/redacao/controllers/noticias.php:181
+#: modules/redacao/views/noticia/formulario.php:49
+msgid "Responsável"
+msgstr ""
+
+#: modules/eventos/views/categorias/formulario.php:21
+#: modules/multimidia/views/categorias/formulario.php:22
+#: modules/multimidia/views/documentos/formulario.php:28
+#: modules/multimidia/views/fotos/formulario.php:28
+#: modules/multimidia/views/podcasts/formulario.php:29
+#: modules/multimidia/views/videos/formulario.php:28
+#: modules/redacao/views/editorial/formulario.php:22
+msgid "Selecione a associação"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:8
+#: modules/redacao/views/noticia/formulario.php:8
+msgid "Adicional"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:10
+#: modules/multimidia/controllers/videos.php:74
+#: modules/multimidia/controllers/videos.php:75
+#: modules/multimidia/controllers/videos.php:123
+#: modules/multimidia/controllers/videos.php:130
+#: modules/redacao/views/noticia/formulario.php:9
+msgid "Vídeos"
+msgstr "Videos"
+
+#: modules/eventos/views/evento/formulario.php:11
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:7
+#: modules/multimidia/views/fotos/formulario.php:7
+#: modules/redacao/views/noticia/formulario.php:10
+msgid "Imagens"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:35
+msgid "Evento particular"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:58
+#: modules/multimidia/views/documentos/formulario.php:46
+#: modules/multimidia/views/fotos/formulario.php:46
+#: modules/multimidia/views/podcasts/formulario.php:52
+#: modules/multimidia/views/videos/formulario.php:46
+#: modules/redacao/views/noticia/formulario.php:44
+msgid "Data:"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:64
+#: modules/redacao/views/noticia/formulario.php:50
+msgid "Selecione o responsável"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:105
+#: modules/redacao/views/noticia/formulario.php:81
+msgid "Linha de Apoio:"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:106
+#: modules/redacao/views/noticia/formulario.php:82
+msgid "Linha de Apoio"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:109
+#: modules/redacao/views/noticia/formulario.php:85
+msgid "Fonte:"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:110
+#: modules/redacao/views/noticia/formulario.php:86
+msgid "Fonte"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:127
+#: modules/redacao/views/noticia/formulario.php:104
+msgid "Validade:"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:132
+#: modules/redacao/views/noticia/formulario.php:109
+msgid "Duração:"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:137
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:63
+#: modules/redacao/views/noticia/formulario.php:114
+msgid "Tags"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:138
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:64
+#: modules/redacao/views/noticia/formulario.php:115
+msgid "Selecione as Tags"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:149
+#: modules/multimidia/views/podcasts/formulario.php:76
+#: modules/redacao/views/noticia/formulario.php:126
+msgid "Áudio"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:183
+#: modules/redacao/views/noticia/formulario.php:152
+msgid "Observações"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:233
+#: modules/redacao/views/noticia/formulario.php:171
+msgid "Vídeo:"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:249
+#: modules/redacao/views/noticia/formulario.php:187
+msgid "Adicionar Vídeo"
+msgstr ""
+
+#: modules/eventos/views/evento/formulario.php:291
+#: modules/multimidia/views/fotos/formulario.php:109
+msgid "Recortar Imagem"
+msgstr ""
+
+#: modules/eventos/views/evento/listagem.php:53
+msgid "Imagem Principal"
+msgstr ""
+
+#: modules/gallery/views/images.php:24
+msgid "Adicionar Imagens"
+msgstr ""
+
+#: modules/gallery/views/images.php:29
+msgid "Cancelar upload"
+msgstr ""
+
+#: modules/gallery/views/images.php:39
+msgid "Excluir Selecionadas"
+msgstr ""
+
+#: modules/gallery/views/images.php:44
+msgid "Selecionar todos"
+msgstr ""
+
+#: modules/gallery/views/images.php:59
+msgid "Selecione para Excluir"
+msgstr ""
+
+#: modules/gallery/views/images.php:111
+msgid "* Arraste as imagens para alterar a ordem de exibição."
+msgstr ""
+
+#: modules/gallery/views/single-file.php:26
+msgid " Selecione um arquivo "
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:41
+#: modules/redacao/controllers/editoriais.php:52
+msgid "Exibindo resultados"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:41
+#: modules/redacao/controllers/editoriais.php:52
+msgid "de um total de"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:49
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:50
+msgid "Gerenciar Conteúdo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:63
+msgid "Id do Conteúdo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:68
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:29
+msgid "Menu Principal"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:79
+msgid "Você não tem permissão para visualizar este conteúdo."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:127
+msgid "Editar Conteúdo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:128
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:133
+msgid "Gerenciador de Conteúdo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:132
+msgid "Cadastrar Conteúdo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:155
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:191
+msgid "Tipo de Conteúdo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:165
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:202
+msgid "Texto"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:181
+msgid "Erro ao cadastrar o conteúdo."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:192
+#: modules/publicidade/views/banners/listagem.php:77
+msgid "Site"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:218
+msgid "Erro ao editar o conteúdo."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:230
+msgid "ID de aprovação inválido."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:234
+msgid "Registro aprovado para o site com sucesso!"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:234
+msgid "Registro removido do site com sucesso!"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:277
+msgid "Ordem atualizada com sucesso!"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:279
+msgid "Ocorreu um erro durante a ação."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:290
+msgid "Imagens excluídas com sucesso!"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/controllers/conteudo.php:292
+msgid "Selecione alguma imagem para excluir."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:6
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:19
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:59
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:67
+#: modules/gerenciador_de_conteudo/views/site/site.php:28
+#: modules/gerenciador_de_conteudo/views/site/site.php:61
+#: modules/gerenciador_de_conteudo/views/site/site.php:94
+msgid "Conteúdo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:8
+#: modules/redacao/views/noticia/formulario.php:11
+msgid "Arquivos"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:9
+#: modules/redacao/controllers/noticias.php:74
+#: modules/redacao/controllers/noticias.php:75
+#: modules/redacao/controllers/noticias.php:128
+#: modules/redacao/controllers/noticias.php:136
+msgid "Notícias"
+msgstr "News"
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:16
+msgid "Tipo de conteúdo:"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:18
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:67
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:69
+#: modules/gerenciador_de_conteudo/views/site/site.php:28
+#: modules/gerenciador_de_conteudo/views/site/site.php:61
+#: modules/gerenciador_de_conteudo/views/site/site.php:94
+msgid "Menu"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:20
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:82
+msgid "Link Externo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:24
+msgid "Site:"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:32
+msgid "Selecione o Menu:"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/formulario.php:146
+msgid "Selecione uma notícia:"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:4
+msgid "Cadastrar novo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:46
+#: modules/publicidade/views/banners/formulario.php:31
+msgid "Informações"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:74
+msgid "Ir para o Link"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:92
+msgid "Nenhum dado"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/conteudo/listagem.php:92
+msgid "cadastrado"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:2
+msgid "Selecione abaixo o site da instituição que deseja gerenciar."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:6
+msgid "Selecione a associação..."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:23
+msgid "Instruções:"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:24
+msgid ""
+"Arraste e ordene os menus disponíveis no site da instituição selecionada. "
+"Você pode transferir conteúdos/menus/links para outros menus de"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:24
+msgid "mesmo nível"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:25
+msgid "Marque como visível os itens que deseja que apareçam no site."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:26
+msgid "Clique no botão"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:26
+msgid "Salvar Alterações"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:26
+msgid "para gravar as configurações selecionadas."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:28
+msgid "Atenção:"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:29
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:30
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:31
+msgid "Menus com a tag"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:29
+msgid "não podem ter a ordem alterada e nem serem ocultos."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:30
+msgid "Menu Fixo"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:30
+msgid "não podem ser arrastados para fora de seu menu pai."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:31
+msgid "Bloqueado"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:31
+msgid "não podem receber outros filhos."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/gerenciar_site.php:36
+msgid "Carregando ..."
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/site.php:8
+#: modules/multimidia/views/podcasts/formulario.php:91
+msgid "Descrição"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/site.php:9
+msgid "Visível"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/site.php:10
+msgid "Menu Superior"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/site.php:11
+msgid "Rodapé"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/site.php:129
+msgid "Salvar Configurações"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/site.php:139
+msgid "Site da Instituição não encontrado!"
+msgstr ""
+
+#: modules/gerenciador_de_conteudo/views/site/site.php:140
+msgid ""
+"Selecione um site na barra de pesquisa a cima. Se o site selecionado não "
+"estiver funcionando, contate um administrador."
+msgstr ""
+
+#: modules/home/views/home.php:3
+msgid "Olá!"
+msgstr ""
+
+#: modules/home/views/home.php:4
+msgid ""
+"Este sistema foi desenvolvido para que seja uma ferramenta útil e de fácil "
+"utilização, por ter uma interface simples e intuitiva."
+msgstr ""
+
+#: modules/home/views/home.php:5
+msgid ""
+"Utilize o menu ao lado para acessar as sessões disponíveis. Ao clicar em "
+"algum item, será exibida a página de visualização de conteúdo respectivo à "
+"sessão selecionada. Nesta página, você poderá realizar a inclusão de novas "
+"informações, fazer a edição dos itens disponíveis e até mesmo excluir algo "
+"que você não queira mais."
+msgstr ""
+
+#: modules/home/views/home.php:6
+msgid ""
+"Qualquer dúvida, sugestão ou problema que você possa ter, não deixe de "
+"enviar-nos uma mensagem através do email:"
+msgstr ""
+
+#: modules/home/views/home.php:6
+msgid "Em breve estaremos respondendo ao seu contato."
+msgstr ""
+
+#: modules/home/views/home.php:7
+msgid "Seja bem vindo!"
+msgstr ""
+
+#: modules/links/controllers/links.php:67
+#: modules/links/controllers/links.php:68
+#: modules/links/controllers/links.php:115
+#: modules/links/controllers/links.php:122
+msgid "Links Úteis"
+msgstr ""
+
+#: modules/links/controllers/links.php:114
+msgid "Editar Link"
+msgstr ""
+
+#: modules/links/controllers/links.php:120
+msgid "Cadastrar Link"
+msgstr ""
+
+#: modules/login/views/login.php:8
+msgid "Usuário/E-mail"
+msgstr ""
+
+#: modules/login/views/login.php:13
+msgid "Digite sua Senha"
+msgstr ""
+
+#: modules/login/views/login.php:15
+msgid "Entrar"
+msgstr ""
+
+#: modules/login/views/login.php:17
+msgid "Esqueci minha senha"
+msgstr ""
+
+#: modules/multimidia/controllers/categorias.php:80
+#: modules/multimidia/controllers/categorias.php:117
+msgid "Categorias de"
+msgstr ""
+
+#: modules/multimidia/controllers/categorias.php:97
+msgid "Categorias de "
+msgstr ""
+
+#: modules/multimidia/controllers/categorias.php:99
+msgid "Multimídia"
+msgstr "Multimedia"
+
+#: modules/multimidia/controllers/categorias.php:118
+msgid "Editar Categorias"
+msgstr ""
+
+#: modules/multimidia/controllers/documentos.php:74
+#: modules/multimidia/controllers/documentos.php:75
+#: modules/multimidia/controllers/documentos.php:123
+#: modules/multimidia/controllers/documentos.php:130
+msgid "Documentos"
+msgstr "Documents"
+
+#: modules/multimidia/controllers/documentos.php:122
+msgid "Editar Documento"
+msgstr ""
+
+#: modules/multimidia/controllers/documentos.php:129
+msgid "Cadastrar Documento"
+msgstr ""
+
+#: modules/multimidia/controllers/fotos.php:74
+#: modules/multimidia/controllers/fotos.php:75
+#: modules/multimidia/controllers/fotos.php:126
+#: modules/multimidia/controllers/fotos.php:133
+msgid "Fotos"
+msgstr "Photos"
+
+#: modules/multimidia/controllers/fotos.php:125
+msgid "Editar Foto"
+msgstr ""
+
+#: modules/multimidia/controllers/fotos.php:132
+msgid "Cadastrar Foto"
+msgstr ""
+
+#: modules/multimidia/controllers/podcasts.php:74
+#: modules/multimidia/controllers/podcasts.php:75
+#: modules/multimidia/controllers/podcasts.php:123
+#: modules/multimidia/controllers/podcasts.php:130
+msgid "Podcasts"
+msgstr "Podcasts"
+
+#: modules/multimidia/controllers/podcasts.php:122
+msgid "Editar Podcast"
+msgstr ""
+
+#: modules/multimidia/controllers/podcasts.php:129
+msgid "Cadastrar Podcast"
+msgstr ""
+
+#: modules/multimidia/controllers/videos.php:122
+msgid "Editar Vídeo"
+msgstr ""
+
+#: modules/multimidia/controllers/videos.php:129
+msgid "Cadastrar Vídeo"
+msgstr ""
+
+#: modules/multimidia/views/categorias/documentos.php:3
+msgid "Selecione o tipo"
+msgstr ""
+
+#: modules/multimidia/views/categorias/documentos.php:4
+msgid "Revista"
+msgstr ""
+
+#: modules/multimidia/views/categorias/documentos.php:5
+msgid "Documento"
+msgstr ""
+
+#: modules/multimidia/views/categorias/documentos.php:6
+msgid "Jornal"
+msgstr "Newspaper"
+
+#: modules/multimidia/views/documentos/formulario.php:53
+msgid "Arquivo Download"
+msgstr ""
+
+#: modules/multimidia/views/podcasts/formulario.php:37
+#: modules/publicidade/views/clientes/formulario.php:49
+msgid "Responsável:"
+msgstr ""
+
+#: modules/multimidia/views/podcasts/formulario.php:57
+msgid "Válidade:"
+msgstr ""
+
+#: modules/multimidia/views/podcasts/listagem.php:62
+msgid "Válidade"
+msgstr ""
+
+#: modules/newsletter/views/newsletter.php:27
+msgid "Exportar Resultados"
+msgstr ""
+
+#: modules/publicidade/controllers/banners.php:144
+#: modules/publicidade/controllers/banners.php:176
+#: modules/publicidade/views/banners/formulario.php:33
+#: modules/publicidade/views/clientes/listagem.php:51
+msgid "Cliente"
+msgstr ""
+
+#: modules/publicidade/controllers/clientes.php:49
+#: modules/publicidade/controllers/clientes.php:50
+#: modules/publicidade/controllers/clientes.php:85
+#: modules/publicidade/controllers/clientes.php:91
+msgid "Clientes"
+msgstr ""
+
+#: modules/publicidade/controllers/clientes.php:84
+msgid "Editar Cliente"
+msgstr ""
+
+#: modules/publicidade/controllers/clientes.php:90
+msgid "Cadastrar Cliente"
+msgstr ""
+
+#: modules/publicidade/controllers/clientes.php:102
+#: modules/publicidade/controllers/clientes.php:127
+msgid "Login"
+msgstr "Login"
+
+#: modules/publicidade/views/banners/formulario.php:7
+msgid "Vigência"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:8
+msgid "Outros"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:69
+msgid "Google Ad-Sense"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:73
+msgid "ad-client:"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:74
+msgid "ad-client"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:78
+msgid "ad-slot:"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:79
+msgid "ad-slot"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:88
+msgid "Selecione o Tipo do Banner"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:146
+msgid "Data Início"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:150
+msgid "Data Final"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:157
+#: modules/publicidade/views/banners/formulario.php:158
+msgid "Limite de Cliques"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:162
+#: modules/publicidade/views/banners/formulario.php:163
+msgid "Impressões"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:167
+#: modules/publicidade/views/banners/formulario.php:168
+msgid "Tempo de Exibição"
+msgstr ""
+
+#: modules/publicidade/views/banners/formulario.php:177
+msgid "Selecione um associação:"
+msgstr ""
+
+#: modules/publicidade/views/banners/listagem.php:57
+msgid "Início"
+msgstr ""
+
+#: modules/publicidade/views/banners/listagem.php:62
+msgid "Fim"
+msgstr ""
+
+#: modules/publicidade/views/clientes/formulario.php:53
+msgid "Login:"
+msgstr ""
+
+#: modules/publicidade/views/clientes/formulario.php:54
+msgid "Login do cliente"
+msgstr ""
+
+#: modules/redacao/controllers/comentarios.php:45
+msgid "Comentários de Notícias"
+msgstr ""
+
+#: modules/redacao/controllers/comentarios.php:46
+msgid "Redação"
+msgstr ""
+
+#: modules/redacao/controllers/comentarios.php:46
+msgid "Comentários"
+msgstr ""
+
+#: modules/redacao/controllers/editoriais.php:78
+#: modules/redacao/controllers/editoriais.php:79
+#: modules/redacao/controllers/editoriais.php:123
+#: modules/redacao/controllers/editoriais.php:130
+#: modules/redacao/views/noticia/formulario.php:59
+msgid "Editoriais"
+msgstr ""
+
+#: modules/redacao/controllers/editoriais.php:122
+msgid "Editar Editoriais"
+msgstr ""
+
+#: modules/redacao/controllers/editoriais.php:128
+msgid "Cadastrar Editoriais"
+msgstr ""
+
+#: modules/redacao/controllers/noticias.php:127
+msgid "Editar Notícias"
+msgstr ""
+
+#: modules/redacao/controllers/noticias.php:134
+msgid "Cadastrar Notícias"
+msgstr ""
+
+#: modules/redacao/controllers/noticias.php:153
+#: modules/redacao/controllers/noticias.php:182
+msgid "Subeditorial"
+msgstr ""
+
+#: modules/redacao/controllers/noticias.php:221
+msgid "Ocorreu um erro ao tentar alterar o vínculo da empresa com o conteúdo"
+msgstr ""
+
+#: modules/redacao/controllers/noticias.php:223
+msgid "Vínculo alterado com sucesso!"
+msgstr ""
+
+#: modules/redacao/views/editorial/formulario.php:30
+#: modules/redacao/views/editorial/listagem.php:35
+msgid "Editorial"
+msgstr ""
+
+#: modules/redacao/views/editorial/formulario.php:53
+msgid "Cor título"
+msgstr ""
+
+#: modules/redacao/views/editorial/formulario.php:54
+msgid "Informe a cor do título."
+msgstr ""
+
+#: modules/redacao/views/editorial/listagem.php:36
+msgid "Selecione um editorial"
+msgstr ""
+
+#: modules/redacao/views/noticia/listagem.php:35
+msgid "Importar Notícias"
+msgstr ""
+
+#: modules/redacao/views/noticia/listagem.php:36
+msgid "Selecione uma empresa"
+msgstr ""
+
+#: modules/redacao/views/noticia/listagem.php:74
+msgid "Publicação"
+msgstr ""
+
+#: modules/redacao/views/noticia/listagem.php:79
+msgid "Editoria"
+msgstr ""
+
+#: modules/routes/views/formulario.php:7
+msgid "(Utilize para descrever a rota. Apenas para organizacao.)"
+msgstr ""
+
+#: modules/routes/views/formulario.php:12
+msgid "Url:"
+msgstr ""
+
+#: modules/routes/views/formulario.php:12
+msgid "(Complemento da url para parametros nao-estaticos. Ex.: (:num)/(:any))"
+msgstr ""
+
+#: modules/routes/views/formulario.php:17
+msgid "Key:"
+msgstr ""
+
+#: modules/routes/views/formulario.php:17
+msgid "(Chave de array para imprimir os links nas views.)"
+msgstr ""
+
+#: modules/routes/views/formulario.php:22
+msgid "Método:"
+msgstr ""
+
+#: modules/routes/views/formulario.php:22
+msgid "(Método completo relativo a url. Ex.: produtos/detalhes/$1/$2)"
+msgstr ""
+
+#: modules/routes/views/formulario.php:47
+msgid "url"
+msgstr ""
+
+#: modules/routes/views/formulario.php:54
+#: modules/routes/views/formulario.php:55
+msgid "Description"
+msgstr ""
+
+#: modules/routes/views/formulario.php:58
+#: modules/routes/views/formulario.php:59
+msgid "Keywords"
+msgstr ""
+
+#~ msgid ""
+#~ "Desculpe, ocorreu um problema inesperado. Confira os campos preenchidos "
+#~ "no formulário e tente novamente."
+#~ msgstr ""
+#~ "Sorry, an unexpected problem. Check the fields filled in the form and try "
+#~ "again."
+
+#~ msgid "Ocorreu um erro"
+#~ msgstr "An error has occurred"
+
+#~ msgid "Fechar"
+#~ msgstr "Close"
+
+#~ msgid "Link copiado com sucesso:"
+#~ msgstr "Link copied successfully:"
+
+#~ msgid "América"
+#~ msgstr "America"
+
+#~ msgid "África"
+#~ msgstr "Africa"
+
+#~ msgid "Ásia"
+#~ msgstr "Asia"
+
+#~ msgid "Europa"
+#~ msgstr "Europe"
+
+#~ msgid "Oceania"
+#~ msgstr "Oceania"
+
+#~ msgid "Ops! Ocorreu um erro."
+#~ msgstr "Oops! An error has occurred."
+
+#~ msgid "A página que está tentando acessar não existe ou foi removida."
+#~ msgstr ""
+#~ "The page you are trying to access does not exist or has been removed."
+
+#~ msgid "Clique aqui para acessar a página inicial"
+#~ msgstr "Click here to access the home page"
+
+#~ msgid "Busca"
+#~ msgstr "Search"
+
+#~ msgid "Rádios"
+#~ msgstr "Radios"
+
+#~ msgid "Revistas"
+#~ msgstr "Magazines"
+
+#~ msgid "Sobre Nós"
+#~ msgstr "About Us"
+
+#~ msgid "Serviços"
+#~ msgstr "Services"
+
+#~ msgid "Busca em "
+#~ msgstr "Search in"
+
+#~ msgid "Sua busca deve conter mais do que 2 caracteres."
+#~ msgstr "Your search should contain more than 2 characters."
+
+#~ msgid "Compartilhe este evento"
+#~ msgstr "Share this event"
+
+#~ msgid "Compartilhe esta notícia"
+#~ msgstr "Share this news"
+
+#~ msgid "Por"
+#~ msgstr "By"
+
+#~ msgid "Início do Evento"
+#~ msgstr "Star Event"
+
+#~ msgid "Hora"
+#~ msgstr "Hour"
+
+#~ msgid "Galeria de Fotos"
+#~ msgstr "Photo Gallery"
+
+#~ msgid "Veja mais"
+#~ msgstr "See more"
+
+#~ msgid "Acessar"
+#~ msgstr "Access"
+
+#~ msgid "Signis no Mundo"
+#~ msgstr "Signis in the World"
+
+#~ msgid "Escolha a sua Congregação no mundo."
+#~ msgstr "Select your Congregation in the World Wide."
+
+#~ msgid "Congregação"
+#~ msgstr "Congregation"
+
+#~ msgid "Presença"
+#~ msgstr "Presence"
+
+#~ msgid "Contato"
+#~ msgstr "Contact"
+
+#~ msgid "Envie uma Mensagem"
+#~ msgstr "Send a Message"
+
+#~ msgid "Seja um Membro"
+#~ msgstr "Be a Member"
+
+#~ msgid "Contatos Comerciais"
+#~ msgstr "Business Contact"
+
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "Logar na Intranet"
+#~ msgstr "Log in the Intranet"
+
+#~ msgid "Faça a sua pesquisa ..."
+#~ msgstr "Make your search..."
+
+#~ msgid "Siga ao vivo"
+#~ msgstr "Follow live"
+
+#~ msgid "Ouvir uma Rádio"
+#~ msgstr "Listen a Radio"
+
+#~ msgid "Ver uma transmissão de vídeo"
+#~ msgstr "See a Video Streaming"
+
+#~ msgid "Seu estado"
+#~ msgstr "Your State"
+
+#~ msgid "Compartilhar no Facebook"
+#~ msgstr "Share on Facebook"
+
+#~ msgid "Adicionar ao Google Bookmarks"
+#~ msgstr "Add to Google Bookmarks"
+
+#~ msgid "Tuitar isso!"
+#~ msgstr "Tweet this!"
+
+#~ msgid "Assine nosso Feed RSS"
+#~ msgstr "Subscribe to our RSS Feed"
+
+#~ msgid "Enviar por E-mail"
+#~ msgstr "Mail This"
+
+#~ msgid "Copiar link"
+#~ msgstr "Copy link"
+
+#~ msgid "Seu Nome"
+#~ msgstr "Your Name"
+
+#~ msgid "Número de Telefone"
+#~ msgstr "Phone Number"
+
+#~ msgid "Repita este número"
+#~ msgstr "Repite this number"
+
+#~ msgid "Sucesso"
+#~ msgstr "Success"
+
+#~ msgid "Seu contato foi enviado com sucesso. Em breve entraremos em contato."
+#~ msgstr "Your contact was successfully sent. Soon we will contact you."
+
+#~ msgid "Confira os campos preenchidos no formulário e tente novamente."
+#~ msgstr "Check the fields filled in the form and try again."
+
+#~ msgid "Envia uma Mensagem"
+#~ msgstr "Send a Message"
+
+#~ msgid "Veja mais eventos"
+#~ msgstr "See More Events"
+
+#~ msgid "Ver o Evento"
+#~ msgstr "See the Event"
+
+#~ msgid "Compartilhar"
+#~ msgstr "Share"
+
+#~ msgid "Buscar em Documentos"
+#~ msgstr "Search in Documents"
+
+#~ msgid "Veja mais documentos"
+#~ msgstr "See More Documents"
+
+#~ msgid "Baixar Este Documento"
+#~ msgstr "Download This Document"
+
+#~ msgid "Todos os segmentos"
+#~ msgstr "All Segments"
+
+#~ msgid "Buscar em Fotos"
+#~ msgstr "Search in Photos"
+
+#~ msgid "Veja mais galerias"
+#~ msgstr "See More Photo Galleries"
+
+#~ msgid "Compartilhe esta Galeria de Fotos"
+#~ msgstr "Share this Photo Gallery"
+
+#~ msgid "Ver a Galeria"
+#~ msgstr "See Gallery"
+
+#~ msgid "Ouça o áudio"
+#~ msgstr "Listen to the Audio"
+
+#~ msgid "Baixar Esta Revista"
+#~ msgstr "Download This Magazine"
+
+#~ msgid "Buscar em Jornal"
+#~ msgstr "Search in newspaper"
+
+#~ msgid "Veja mais jornais"
+#~ msgstr "See More Newspaper"
+
+#~ msgid "Baixar Este Jornal"
+#~ msgstr "Download This Newspaper"
+
+#~ msgid "Buscar em Revistas"
+#~ msgstr "Search in magazines"
+
+#~ msgid "Veja mais revistas"
+#~ msgstr "See More Magazines"
+
+#~ msgid "Buscar em Vídeos"
+#~ msgstr "Search in Videos"
+
+#~ msgid "Veja mais Vídeos"
+#~ msgstr "See More Videos"
+
+#~ msgid "E-mail já cadastrado!"
+#~ msgstr "E-mail already registered!"
+
+#~ msgid ""
+#~ "Seu e-mail foi cadastrado com sucesso. Em breve você receberá nossas "
+#~ "novidades."
+#~ msgstr ""
+#~ "Your email has been successfully registered. Soon you will receive our "
+#~ "news."
+
+#~ msgid "Assine nossa Newsletter"
+#~ msgstr "Sign in the Newsletter"
+
+#~ msgid "Insira seus dados para receber nossas informações."
+#~ msgstr "Insert your data for receiving our information."
+
+#~ msgid "Assinar"
+#~ msgstr "Sign In"
+
+#~ msgid "Mais Sobre"
+#~ msgstr "More About"
+
+#~ msgid "Veja mais notícias"
+#~ msgstr "See More News"
+
+#~ msgid "Presença no Mundo"
+#~ msgstr "World Presence"
+
+#~ msgid "TV"
+#~ msgstr "TV"
+
+#~ msgid "Podcast"
+#~ msgstr "Podcast"
+
+#~ msgid "Ver Todos"
+#~ msgstr "See All"
+
+#~ msgid "Selecione seu País"
+#~ msgstr "Select your Country"
+
+#~ msgid "Selecione seu Continente"
+#~ msgstr "Select your Continent"
+
+#~ msgid "Veja mais fotos"
+#~ msgstr "See More Photo Galleries"
+
+#~ msgid "Mais sobre"
+#~ msgstr "More About"
+
+#~ msgid "Região/Província"
+#~ msgstr "Province/Region"
+
+#~ msgid "See the Event"
+#~ msgstr "See the Event"
+
+#~ msgid "Ouvir o áudio"
+#~ msgstr "Listen to the Audio"

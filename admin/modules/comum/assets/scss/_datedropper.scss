@@ -1,0 +1,32 @@
+div.datedropper{
+    --dd-color1: var(--primary) !important;
+}
+
+.td-wrap{
+    .td-clock{
+        box-shadow: 0 0 0 1px var(--primary), 0 0 0 8px rgba(0, 0, 0, 0.05) !important;
+        .td-time {
+            span{
+                &.on {
+                    color: var(--primary) !important;
+                }
+            }
+        }
+        &:before {
+            border-color: var(--primary)  !important;
+            border-left: 1px solid var(--primary)  !important;
+            border-top: 1px solid var(--primary)  !important;
+        }
+    }
+    .td-select{
+        &:after {
+            box-shadow: 0 0 0 1px var(--primary) !important;
+        }
+        svg{
+            stroke: var(--primary) !important;
+        }
+    }
+    .td-lancette{
+        border: 2px solid var(--primary)  !important;
+    }
+}

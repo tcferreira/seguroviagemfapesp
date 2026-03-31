@@ -1,0 +1,13 @@
+
+.mm-active > a:not(.has-arrow) {
+    background: #ededed;
+
+    &:before{
+        background-color: #a9a9a9;
+    }
+}
+
+[data-sidebar-style="overlay"] .deznav .metismenu > li {
+    padding: 0 20px;
+    margin-bottom: 0.3rem;
+}

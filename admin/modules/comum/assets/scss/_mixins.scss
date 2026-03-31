@@ -1,0 +1,176 @@
+// =============================================================================
+// String Replace
+// =============================================================================
+
+@function str-replace($string, $search, $replace: "") {
+	$index: str-index($string, $search);
+
+	@if $index {
+		@return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+	}
+
+	@return $string;
+}
+
+// =============================================================================
+// Font Face
+// =============================================================================
+
+@mixin font-face($name, $path, $weight: null, $style: null, $exts: eot woff2 woff ttf svg) {
+	$src: null;
+
+	$extmods: (
+		eot: "?",
+		svg: "#" + str-replace($name, " ", "_")
+	);
+
+	$formats: (
+		otf: "opentype",
+		ttf: "truetype"
+	);
+
+	@each $ext in $exts {
+		$extmod: if(map-has-key($extmods, $ext), $ext + map-get($extmods, $ext), $ext);
+		$format: if(map-has-key($formats, $ext), map-get($formats, $ext), $ext);
+		$src: append($src, url(quote($path + "." + $extmod)) format(quote($format)), comma);
+	}
+
+	@font-face {
+		font-family: quote($name);
+		font-style: $style;
+		font-weight: $weight;
+		src: $src;
+	}
+}
+
+@mixin background-gradient($startColor: #3C3C3C, $endColor: #999999, $position: top) {
+	background-color: $startColor;
+	background-image: -webkit-gradient(linear, left top, left bottom, from($startColor), to($endColor));
+	background-image: -webkit-linear-gradient(top, $startColor, $endColor);
+	background-image:    -moz-linear-gradient(top, $startColor, $endColor);
+	background-image:     -ms-linear-gradient(top, $startColor, $endColor);
+	background-image:      -o-linear-gradient(top, $startColor, $endColor);
+	background-image:         linear-gradient(top, $startColor, $endColor);
+	filter:            progid:DXImageTransform.Microsoft.gradient(startColorStr=#{$startColor}, EndColorStr=#{$endColor});
+}
+
+@mixin border-radius($radius: 5px) {
+	-moz-border-radius:    $radius;
+	-webkit-border-radius: $radius;
+	border-radius:         $radius;
+}
+
+@mixin transition($duration: 2s, $property: all, $function: linear) {
+	-webkit-transition: $property $duration $function; /* Safari prior 6.1 */
+    transition: $property $duration $function;
+}
+
+@mixin dim($width: auto, $height: auto) {
+    width: $width;
+    height: $height;
+}
+
+@mixin fleft() {
+    float:left;
+}
+
+@mixin fright() {
+    float:right;
+}
+
+@mixin iblock() {
+    display: inline-block;
+}
+
+@mixin block() {
+    display: block;
+}
+
+@mixin pointer() {
+    cursor:pointer;
+}
+
+@mixin postl($top: 0, $left: 0) {
+    top: $top;
+    left: $left;
+}
+
+@mixin postr($top: 0, $right: 0) {
+    top: $top;
+    right: $right;
+}
+
+@mixin posbl($top: 0, $left: 0) {
+    bottom: $top;
+    left: $left;
+}
+
+@mixin posbr($top: 0, $right: 0) {
+    bottom: $top;
+    right: $right;
+}
+
+@mixin mrgtl($top: 0, $left: 0) {
+    margin-top: $top;
+    margin-left: $left;
+}
+
+@mixin mrgtr($top: 0, $right: 0) {
+    margin-top: $top;
+    margin-right: $right;
+}
+
+@mixin opacity($opacity: 0.5) {
+	filter:         alpha(opacity=($opacity * 100));
+	-ms-filter:     "progid:DXImageTransform.Microsoft.Alpha(Opacity=" + ($opacity * 100) + ")";
+	-moz-opacity:   $opacity;
+	-khtml-opacity: $opacity;
+	opacity:        $opacity;
+}
+
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex($value: 1) {
+	-webkit-flex: $value;
+	-moz-flex:    $value;
+	flex:         $value;
+}
+
+@mixin flex-direction($direction: column) {
+    -webkit-flex-direction: $direction;
+    flex-direction: $direction;
+}
+
+@mixin justify-content($position: center) {
+    justify-content: $position;
+}
+
+@mixin align-items($position: center) {
+    align-items: $position;
+}
+
+@mixin relative() {
+	position: relative;
+}
+
+@mixin rgba($alpha:0.5,$red:0,$green:0,$blue:0){
+	background-color: rgb($red, $green, $blue);
+	background-color: rgba($red, $green, $blue, $alpha);
+	-pie-background: rgba($red, $green, $blue, $alpha);
+    behavior: url($img + '/htc/pie.htc');
+    zoom:1;
+}
+
+@mixin clr(){
+    &:after {
+        content:" ";
+        @include block();
+        clear:both;
+    }
+}

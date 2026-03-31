@@ -1,0 +1,8 @@
+!icons/
+!css/
+!images/
+!js/
+!vendor/
+!vendor/**
+!scss
+!*

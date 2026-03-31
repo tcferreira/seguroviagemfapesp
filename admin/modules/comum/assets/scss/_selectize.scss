@@ -1,0 +1,40 @@
+@import '../plugins/selectize/scss/_selectize';
+
+.selectize-input{
+    border-radius: .25rem;
+    border: none;
+    box-shadow: none;
+    color: #fff;
+    padding: 8px;
+    &.full{
+        background: #94c11e;
+    }
+}
+
+.selectize-input.input-active{
+    color: #565656;
+}
+
+.selectize-dropdown, .selectize-input, .selectize-input input{
+    line-height: 16px;
+}
+
+.selectize-control {
+    text-align: left !important;
+    .selectize-dropdown {
+        > div {
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+
+        z-index: 9999 !important;
+    }
+
+    &.single {
+        .selectize-input.input-active input{
+            -webkit-user-modify: read-only;
+        }
+        .selectize-input:after{
+            display: none;
+        }
+    }
+}

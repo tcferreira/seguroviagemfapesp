@@ -1,0 +1,13 @@
+# robots.txt - Seguro Viagem FAPESP | Otripulante
+# https://seguroviagemfapesp.com
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /application/
+Disallow: /system/
+Disallow: /userfiles/
+Disallow: /index.php
+
+# Sitemap
+Sitemap: https://seguroviagemfapesp.com/sitemap.xml

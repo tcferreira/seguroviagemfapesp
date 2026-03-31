@@ -1,0 +1,19 @@
+
+ul {
+    &.pagination {
+        .page-link {
+            padding: .5rem 1rem;
+            margin-left: -1px;
+            color: var(--primary);
+            background-color: #fff;
+            border: none;
+        }
+
+        .page-item.active .page-link {
+            color: #fff;
+            background-color: var(--primary);
+            border-color: var(--primary);
+            border-radius: 5px;
+        }
+    }
+}

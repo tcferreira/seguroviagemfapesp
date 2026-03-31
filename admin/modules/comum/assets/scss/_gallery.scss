@@ -1,0 +1,449 @@
+.gallery-images{
+    .imagesAll{
+        margin-left: -15px;
+    }
+
+    .fileupload-buttonbar{
+        @include iblock();
+    }
+
+    .fileinput-button {
+        @include relative();
+        overflow: hidden;
+    }
+
+    .fileinput-button input {
+        @include postr(0,0);
+        margin: 0;
+        @include opacity(0);
+        font-size: 200px;
+        direction: ltr;
+        @include pointer();
+        position: absolute;
+        @include dim(100%, 100%);
+    }
+
+    .delete-all{
+        margin: 0 20px 0 4px;
+    }
+
+    .template-upload{
+        @include iblock();
+        @include relative();
+        padding: 13px 10px 10px;
+        margin: 15px;
+        width: 195px;
+        background: #fff;
+        border: 1px solid #edf4f8;
+        box-shadow: 0 5px 20px rgba(93, 96, 99, 0.28);
+        @include border-radius(10px);
+
+        &.old {
+            padding-top: 10px;
+            border: 0 none;
+        }
+        &.new {
+            .progress {
+                margin-bottom: 3px;
+                background-color: transparent;
+                height: 5px;
+                .progress-bar{
+                    background-color: var(--primary);
+                }
+            }
+            .preview {
+                width: 100%;
+                max-width: 175px;
+                margin-bottom: 6px;
+
+                .config-file-bt {
+                    right: 3px;
+                    bottom: 6px;
+                }
+            }
+        }
+        .file-preview {
+            @include dim(170px, 170px);
+            line-height: 140px;
+            font-family: Arial;
+            font-size: 25px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .delete,
+        .cancel{
+            @include posbr(11px,10px);
+            font-size: 12px;
+            position: absolute;
+        }
+        .checkbox-delete-multiple {
+            font-size: .7rem;
+            @include flexbox();
+            @include justify-content(space-between);
+            @include align-items(center);
+            padding-left: 20px;
+            margin-bottom: 1em;
+        }
+        .preview{
+            @include block();
+            @include relative();
+            overflow: hidden;
+            .crop-image{
+                @include postr(5px, 15px);
+                font-size: 17px;
+                color: #f1c40f;
+            }
+            .file_input{
+                @include dim(170px, 109px);
+                a{
+                    font-size: 20px;
+                    margin-top: 60px;
+                }
+            }
+
+            canvas {
+                @include border-radius(5px);
+                padding: 1px;
+                border: 1px solid #EFEFEF;
+            }
+            label{
+                @include block();
+                @include posbl(1px,1px);
+                @include rgba(0.6,255,255,255);
+                width: 170px;
+                margin: 0;
+                padding: 0 10px;
+                line-height: 25px;
+                text-align: center;
+                @include pointer();
+            }
+            .config-file-bt, .config-file-close, .config-file-download {
+                @include dim(27px, 27px);
+                @include posbr(1px, 1px);
+                @include border-radius(5px 0 0);
+                @include transition(.35s, color);
+                position: absolute;
+                display: block;
+                cursor: pointer;
+                background-color: white;
+                line-height: 25px;
+                text-align: center;
+                z-index: 1;
+                color: #525252;
+
+                &:hover {
+                    color: #98777B;
+                }
+            }
+            .config-file-close {
+                @include posbr(0, 0);
+                position: absolute;
+                @include dim(26px, 26px);
+                border: 0 none;
+                border-left: 1px solid #ececec;
+                border-top: 1px solid #ececec;
+            }
+            .config-file-download {
+                @include posbr(0, 25px);
+                position: absolute;
+                @include dim(26px, 26px);
+                border: 0 none;
+                border-left: 1px solid #ececec;
+                border-top: 1px solid #ececec;
+                font-size: 13px;
+            }
+            .config-file-screen {
+                @include dim(170px, 170px);
+                @include postl(2px, 172px);
+                @include transition(.35s, left);
+                z-index: 2;
+                cursor: default;
+                background-color: white;
+
+                &.open {
+                    @include postl(2px, 2px);
+                }
+                label {
+                    border-bottom: 1px solid #eee;
+                    position: static;
+                    text-align: left;
+                    display: block;
+                    line-height: 25px;
+                    padding: 2px 8px;
+
+                    &.flag_file {
+                        padding: 0;
+                    }
+                    .flag_file_label {
+                        padding-left: 10px;
+                        font-size: 11px;
+                        font-weight: normal;
+                        display: block;
+                        padding-top: 5px;
+                    }
+                }
+                .bootstrap-select {
+                    height: 25px;
+
+                    .selectpicker {
+                        border: 0;
+                        background-color: transparent;
+                        padding-top: 0;
+
+                        .filter-option {
+                            color: #525252;
+                            font-family: 'Open Sans',sans-serif;
+                            font-size: 13px;
+                            font-weight: bold;
+                        }
+                    }
+                    .dropdown-menu {
+                        border: 0 none;
+
+                        li {
+                            a {
+                                padding: 3px 10px 4px 10px;
+
+                                .text {
+                                    font-size: 13px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .name{
+            margin-right: 45px;
+            margin-bottom: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .imageOlds &, .fileOlds &{
+            cursor: move;
+        }
+    }
+    .multilang {
+        .template-upload {
+            .name {
+                margin-right: 0;
+                margin-bottom: 5px;
+            }
+            .select2 {
+                width: calc(100% - 45px)!important;
+            }
+        }
+    }
+
+    .upload-wrapper{
+        @include relative();
+        .upload-image {
+            @include relative();
+            @include dim(100%,75px);
+            @include fleft();
+            max-width: 75px;
+            line-height: 75px;
+
+            &:hover {
+                span, canvas, img {
+                    border-color: darken(#CCC, 10%);
+                }
+            }
+            &:after{
+                content: '';
+                @include postl(50%,50%);
+                @include mrgtl(-8px,-8px);
+                @include dim(16px,16px);
+                @include transition(0.3s);
+            }
+            span, canvas, img{
+                @include dim(75px, 75px);
+                @include border-radius(3px);
+                @include fleft();
+                @include transition(.2s, border-color);
+                border: 1px solid #CCC;
+                text-align: center;
+                font-size: 10px;
+                color: #204D74;
+            }
+            img{
+                position: absolute;
+                margin: auto;
+                right: 0;
+                left: 0;
+                top: 0;
+                bottom: 0;
+                @include opacity(1);
+                @include transition(0.3s);
+            }
+        }
+
+        [id^="fileupload"], [id^="fileUploadArchive"], [id^="fileUploadImage"] {
+            @include opacity(0);
+            @include dim(10px, 10px);
+            @include relative();
+            top: 15px;
+            left: 75px;
+            z-index: 0;
+        }
+        label,a{
+            @include relative();
+            @include iblock();
+            z-index: 1;
+        }
+
+        .remove-image{
+            @include fright();
+            margin-right: 10px;
+        }
+
+        .edit-upload{
+            @include pointer();
+            margin-bottom: 0;
+            vertical-align: bottom;
+
+            &:hover{
+                color: #23527C
+            }
+            i {
+                margin-top: 5px;
+            }
+        }
+
+        .upload-action{
+            @include dim(21px);
+            @include fleft();
+            @include clr();
+            margin-left: 10px;
+
+
+        }
+
+        input[type="checkbox"]{
+            opacity: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-top: -5px;
+            margin-left: -5px;
+            z-index: 0;
+        }
+        /************************************/
+        /* CLASES PARA O UPLOAD DE ARQUIVOS */
+        /************************************/
+        #idArchive{
+            .checkbox-custom{
+                padding-left: 20px;
+            }
+        }
+        .upload-archive{
+            .progress{
+                @include border-radius(2px);
+                @include dim(100%, 34px);
+                background: transparent;
+                border: 1px solid #ccc;
+                box-shadow: none;
+                color: #666;
+                font-size: 13px;
+                margin: 0;
+                // max-width: 400px;
+                position: relative;
+                z-index: 1;
+                top:0;
+
+                .progress-bar{
+                    @include border-radius(2px);
+                    overflow: hidden;
+                    @include relative();
+                    color: #fff;
+                    z-index: 3;
+                    .progressHolder{
+                        @include dim(100%,32px);
+                        font-size: 14px;
+                        line-height: 32px;
+                        margin: 0;
+                        overflow: hidden;
+                        padding-left: 10px;
+                        @include postl(0,0);
+                        text-align: left;
+                        white-space: nowrap;
+                    }
+                    &.complete{
+                        .progressHolder{
+                            padding-right: 30px;
+                            text-overflow: ellipsis;
+                        }
+                    }
+                }
+                .archivePlaceholder{
+                    @include dim(100%,32px);
+                    line-height: 32px;
+                    margin: 0;
+                    overflow: hidden;
+                    padding: 0 20px 0 10px;
+                    @include postl(0,0);
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    &.pointer{
+                        @include pointer();
+                    }
+                }
+                .remove-archive{
+                    padding: 0;
+                    @include postr(7px, 5px);
+                    z-index: 4;
+                    i:before{
+                        @include relative();
+                        color: var(--danger);
+                    }
+                }
+            }
+
+            input[type="file"] {
+                @include opacity(0);
+                @include dim(10px, 10px);
+                @include postl(50%,50%);
+                margin-top: -5px;
+                margin-left: -5px;
+                z-index: 0;
+            }
+        }
+    }
+
+    .sort-info {
+        margin-left: 18px;
+        font-size: 12px;
+        line-height: 16px;
+        > i {
+            border: 0 !important;
+            margin-left: 8px;
+            opacity: 0;
+        }
+    }
+
+    .preview {
+        video {
+            width: 100%;
+            height: 170px;
+            object-fit: cover;
+        }
+    }
+
+    .upload-wrapper .upload-archive .progress:first-of-type {
+        display: none;
+    }
+
+    .img-flag{
+        max-width:20px;
+    }
+
+    .select2-container--default .select2-selection--single .select2-selection__arrow,
+    .select2-container--default .select2-selection--single{
+        height: 38px;
+    }
+    .select2-container--default .select2-selection--single .select2-selection__rendered{
+        line-height: 38px;
+    }
+}

@@ -1,0 +1,8 @@
+@include font-face('robotobold', '@{fonts}roboto/roboto_bold', 500, normal, eot woff ttf svg);
+@include font-face('robotoitalic', '@{fonts}roboto/roboto_italic', 500, normal, eot woff ttf svg);
+@include font-face('robotoregular', '@{fonts}roboto/roboto_regular', 500, normal, eot woff ttf svg);
+@include font-face('roboto_bolditalic', '@{fonts}roboto/roboto_bolditalic', 500, normal, eot woff ttf svg);
+
+
+// @import url("https://use.fontawesome.com/releases/v5.8.1/css/all.css");
+@import './../fonts/fontawesome6/css/all.min.css';
