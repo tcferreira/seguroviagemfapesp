@@ -1130,8 +1130,8 @@
     ================================================ -->
     <section class="section" id="autoridade">
         <div class="container">
-            <h2 class="section-title fade-up">Por que confiar na nossa assessoria?</h2>
-            <p class="section-desc fade-up">Não somos um comparador automático. Somos corretores licenciados pela SUSEP que conhecem o SAGe, o SCBA e os editais da FAPESP por dentro.</p>
+            <h2 class="section-title fade-up"><?= isset($configs['pq_confiar']) ? htmlspecialchars($configs['pq_confiar']) : 'Por que confiar na nossa assessoria?' ?></h2>
+            <p class="section-desc fade-up"><?= isset($configs['pq_confiar_texto']) ? htmlspecialchars($configs['pq_confiar_texto']) : 'Não somos um comparador automático. Somos corretores licenciados pela SUSEP que conhecem o SAGe, o SCBA e os editais da FAPESP por dentro.' ?></p>
 
             <?php if (!empty($autoridade)): ?>
             <div class="autoridade-grid">
