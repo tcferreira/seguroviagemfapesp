@@ -6238,3 +6238,948 @@ DEBUG - 2026-03-31 13:41:14 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagem
 DEBUG - 2026-03-31 13:41:14 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/template/default.php
 INFO - 2026-03-31 13:41:14 --> Final output sent to browser
 DEBUG - 2026-03-31 13:41:14 --> Total execution time: 0.1026
+INFO - 2026-03-31 13:43:55 --> Config Class Initialized
+INFO - 2026-03-31 13:43:55 --> Hooks Class Initialized
+DEBUG - 2026-03-31 13:43:55 --> UTF-8 Support Enabled
+INFO - 2026-03-31 13:43:55 --> Utf8 Class Initialized
+INFO - 2026-03-31 13:43:55 --> URI Class Initialized
+INFO - 2026-03-31 13:43:55 --> Database Driver Class Initialized
+INFO - 2026-03-31 13:43:55 --> Router Class Initialized
+INFO - 2026-03-31 13:43:55 --> Output Class Initialized
+INFO - 2026-03-31 13:43:55 --> Security Class Initialized
+DEBUG - 2026-03-31 13:43:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 13:43:55 --> CSRF cookie sent
+INFO - 2026-03-31 13:43:55 --> Input Class Initialized
+DEBUG - 2026-03-31 13:43:55 --> MY_Lang Class Initialized
+INFO - 2026-03-31 13:43:55 --> Config Class Initialized
+INFO - 2026-03-31 13:43:55 --> Loader Class Initialized
+INFO - 2026-03-31 13:43:55 --> Helper loaded: url_helper
+INFO - 2026-03-31 13:43:55 --> Helper loaded: text_helper
+INFO - 2026-03-31 13:43:55 --> Helper loaded: date_helper
+INFO - 2026-03-31 13:43:55 --> Helper loaded: string_helper
+INFO - 2026-03-31 13:43:55 --> Helper loaded: permission_helper
+INFO - 2026-03-31 13:43:55 --> Helper loaded: components_helper
+INFO - 2026-03-31 13:43:55 --> Database Driver Class Initialized
+INFO - 2026-03-31 13:43:55 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 13:43:55 --> Initial Auth Library
+INFO - 2026-03-31 13:43:55 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 13:43:55 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 13:43:55 --> Initial Logs Library
+INFO - 2026-03-31 13:43:55 --> Controller Class Initialized
+DEBUG - 2026-03-31 13:43:55 --> Home MX_Controller Initialized
+INFO - 2026-03-31 13:43:55 --> Helper loaded: debug_helper
+INFO - 2026-03-31 13:43:55 --> Helper loaded: language_helper
+ERROR - 2026-03-31 13:43:55 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 13:43:55 --> Unable to load the requested language file: language/portuguese-br/home/default_lang.php
+ERROR - 2026-03-31 13:43:55 --> Language file contains no data: language/portuguese-br/home/default_lang.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/models/Home_m.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/header.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/home.php
+DEBUG - 2026-03-31 13:43:55 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/template/default.php
+INFO - 2026-03-31 13:43:55 --> Final output sent to browser
+DEBUG - 2026-03-31 13:43:55 --> Total execution time: 0.1770
+INFO - 2026-03-31 13:43:59 --> Config Class Initialized
+INFO - 2026-03-31 13:43:59 --> Hooks Class Initialized
+DEBUG - 2026-03-31 13:43:59 --> UTF-8 Support Enabled
+INFO - 2026-03-31 13:43:59 --> Utf8 Class Initialized
+INFO - 2026-03-31 13:43:59 --> URI Class Initialized
+INFO - 2026-03-31 13:43:59 --> Database Driver Class Initialized
+INFO - 2026-03-31 13:43:59 --> Router Class Initialized
+INFO - 2026-03-31 13:43:59 --> Output Class Initialized
+INFO - 2026-03-31 13:43:59 --> Security Class Initialized
+DEBUG - 2026-03-31 13:43:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 13:43:59 --> CSRF cookie sent
+INFO - 2026-03-31 13:43:59 --> Input Class Initialized
+DEBUG - 2026-03-31 13:43:59 --> MY_Lang Class Initialized
+INFO - 2026-03-31 13:43:59 --> Config Class Initialized
+INFO - 2026-03-31 13:43:59 --> Loader Class Initialized
+INFO - 2026-03-31 13:43:59 --> Helper loaded: url_helper
+INFO - 2026-03-31 13:43:59 --> Helper loaded: text_helper
+INFO - 2026-03-31 13:43:59 --> Helper loaded: date_helper
+INFO - 2026-03-31 13:43:59 --> Helper loaded: string_helper
+INFO - 2026-03-31 13:43:59 --> Helper loaded: permission_helper
+INFO - 2026-03-31 13:43:59 --> Helper loaded: components_helper
+INFO - 2026-03-31 13:43:59 --> Database Driver Class Initialized
+INFO - 2026-03-31 13:43:59 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 13:43:59 --> Initial Auth Library
+INFO - 2026-03-31 13:43:59 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 13:43:59 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 13:43:59 --> Initial Logs Library
+INFO - 2026-03-31 13:43:59 --> Controller Class Initialized
+DEBUG - 2026-03-31 13:43:59 --> Leads MX_Controller Initialized
+INFO - 2026-03-31 13:43:59 --> Helper loaded: debug_helper
+INFO - 2026-03-31 13:43:59 --> Helper loaded: language_helper
+ERROR - 2026-03-31 13:43:59 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 13:43:59 --> Unable to load the requested language file: language/portuguese-br/leads/default_lang.php
+ERROR - 2026-03-31 13:43:59 --> Language file contains no data: language/portuguese-br/leads/default_lang.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/models/Leads_m.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/header.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/kanban.php
+DEBUG - 2026-03-31 13:43:59 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/template/default.php
+INFO - 2026-03-31 13:43:59 --> Final output sent to browser
+DEBUG - 2026-03-31 13:43:59 --> Total execution time: 0.0653
+INFO - 2026-03-31 16:47:30 --> Config Class Initialized
+INFO - 2026-03-31 16:47:30 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:30 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:30 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:30 --> URI Class Initialized
+INFO - 2026-03-31 16:47:30 --> Database Driver Class Initialized
+INFO - 2026-03-31 16:47:30 --> Router Class Initialized
+INFO - 2026-03-31 16:47:30 --> Output Class Initialized
+INFO - 2026-03-31 16:47:30 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:30 --> CSRF cookie sent
+INFO - 2026-03-31 16:47:30 --> Input Class Initialized
+DEBUG - 2026-03-31 16:47:30 --> MY_Lang Class Initialized
+INFO - 2026-03-31 16:47:30 --> Config Class Initialized
+INFO - 2026-03-31 16:47:30 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:30 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: text_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: date_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: string_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: permission_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: components_helper
+INFO - 2026-03-31 16:47:30 --> Database Driver Class Initialized
+INFO - 2026-03-31 16:47:30 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 16:47:30 --> Initial Auth Library
+INFO - 2026-03-31 16:47:30 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 16:47:30 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+INFO - 2026-03-31 16:47:30 --> Config Class Initialized
+INFO - 2026-03-31 16:47:30 --> Hooks Class Initialized
+DEBUG - 2026-03-31 16:47:30 --> UTF-8 Support Enabled
+INFO - 2026-03-31 16:47:30 --> Utf8 Class Initialized
+INFO - 2026-03-31 16:47:30 --> URI Class Initialized
+INFO - 2026-03-31 16:47:30 --> Database Driver Class Initialized
+INFO - 2026-03-31 16:47:30 --> Router Class Initialized
+INFO - 2026-03-31 16:47:30 --> Output Class Initialized
+INFO - 2026-03-31 16:47:30 --> Security Class Initialized
+DEBUG - 2026-03-31 16:47:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 16:47:30 --> CSRF cookie sent
+INFO - 2026-03-31 16:47:30 --> Input Class Initialized
+DEBUG - 2026-03-31 16:47:30 --> MY_Lang Class Initialized
+INFO - 2026-03-31 16:47:30 --> Config Class Initialized
+INFO - 2026-03-31 16:47:30 --> Loader Class Initialized
+INFO - 2026-03-31 16:47:30 --> Helper loaded: url_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: text_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: date_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: string_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: permission_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: components_helper
+INFO - 2026-03-31 16:47:30 --> Database Driver Class Initialized
+INFO - 2026-03-31 16:47:30 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 16:47:30 --> Initial Auth Library
+INFO - 2026-03-31 16:47:30 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 16:47:30 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 16:47:30 --> Initial Logs Library
+INFO - 2026-03-31 16:47:30 --> Controller Class Initialized
+DEBUG - 2026-03-31 16:47:30 --> Login MX_Controller Initialized
+INFO - 2026-03-31 16:47:30 --> Helper loaded: debug_helper
+INFO - 2026-03-31 16:47:30 --> Helper loaded: language_helper
+ERROR - 2026-03-31 16:47:30 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 16:47:30 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 16:47:30 --> Unable to load the requested language file: language/portuguese-br/login/default_lang.php
+ERROR - 2026-03-31 16:47:30 --> Language file contains no data: language/portuguese-br/login/default_lang.php
+DEBUG - 2026-03-31 16:47:30 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/login/models/Login_m.php
+INFO - 2026-03-31 16:47:30 --> Parser Class Initialized
+DEBUG - 2026-03-31 16:47:30 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/login/views/login.php
+DEBUG - 2026-03-31 16:47:30 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/login/views/../../comum/views/template/login.php
+INFO - 2026-03-31 16:47:30 --> Final output sent to browser
+DEBUG - 2026-03-31 16:47:30 --> Total execution time: 0.0282
+INFO - 2026-03-31 19:13:14 --> Config Class Initialized
+INFO - 2026-03-31 19:13:14 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:13:14 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:13:14 --> URI Class Initialized
+INFO - 2026-03-31 19:13:14 --> Database Driver Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> No URI present. Default controller set.
+INFO - 2026-03-31 19:13:14 --> Router Class Initialized
+INFO - 2026-03-31 19:13:14 --> Output Class Initialized
+INFO - 2026-03-31 19:13:14 --> Security Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:13:14 --> CSRF cookie sent
+INFO - 2026-03-31 19:13:14 --> Input Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:13:14 --> Config Class Initialized
+INFO - 2026-03-31 19:13:14 --> Loader Class Initialized
+INFO - 2026-03-31 19:13:14 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:13:14 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:13:14 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:13:14 --> Initial Auth Library
+INFO - 2026-03-31 19:13:14 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:13:14 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+INFO - 2026-03-31 19:13:14 --> Config Class Initialized
+INFO - 2026-03-31 19:13:14 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:13:14 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:13:14 --> URI Class Initialized
+INFO - 2026-03-31 19:13:14 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:13:14 --> Router Class Initialized
+INFO - 2026-03-31 19:13:14 --> Output Class Initialized
+INFO - 2026-03-31 19:13:14 --> Security Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:13:14 --> CSRF cookie sent
+INFO - 2026-03-31 19:13:14 --> Input Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:13:14 --> Config Class Initialized
+INFO - 2026-03-31 19:13:14 --> Loader Class Initialized
+INFO - 2026-03-31 19:13:14 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:13:14 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:13:14 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:13:14 --> Initial Auth Library
+INFO - 2026-03-31 19:13:14 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:13:14 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:13:14 --> Initial Logs Library
+INFO - 2026-03-31 19:13:14 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> Login MX_Controller Initialized
+INFO - 2026-03-31 19:13:14 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:13:14 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:13:14 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:13:14 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:13:14 --> Unable to load the requested language file: language/portuguese-br/login/default_lang.php
+ERROR - 2026-03-31 19:13:14 --> Language file contains no data: language/portuguese-br/login/default_lang.php
+DEBUG - 2026-03-31 19:13:14 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/login/models/Login_m.php
+INFO - 2026-03-31 19:13:14 --> Parser Class Initialized
+DEBUG - 2026-03-31 19:13:14 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/login/views/login.php
+DEBUG - 2026-03-31 19:13:14 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/login/views/../../comum/views/template/login.php
+INFO - 2026-03-31 19:13:14 --> Final output sent to browser
+DEBUG - 2026-03-31 19:13:14 --> Total execution time: 0.0450
+INFO - 2026-03-31 19:13:34 --> Config Class Initialized
+INFO - 2026-03-31 19:13:34 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:13:34 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:13:34 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:13:34 --> URI Class Initialized
+INFO - 2026-03-31 19:13:34 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:13:34 --> Router Class Initialized
+INFO - 2026-03-31 19:13:34 --> Output Class Initialized
+INFO - 2026-03-31 19:13:34 --> Security Class Initialized
+DEBUG - 2026-03-31 19:13:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:13:34 --> CSRF cookie sent
+INFO - 2026-03-31 19:13:34 --> CSRF token verified
+INFO - 2026-03-31 19:13:34 --> Input Class Initialized
+DEBUG - 2026-03-31 19:13:34 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:13:34 --> Config Class Initialized
+INFO - 2026-03-31 19:13:34 --> Loader Class Initialized
+INFO - 2026-03-31 19:13:34 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:13:34 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:13:34 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:13:34 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:13:34 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:13:34 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:13:34 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:13:34 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:13:34 --> Initial Auth Library
+INFO - 2026-03-31 19:13:34 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:13:34 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:13:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:13:34 --> Initial Logs Library
+INFO - 2026-03-31 19:13:34 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:13:34 --> Login MX_Controller Initialized
+INFO - 2026-03-31 19:13:34 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:13:34 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:13:34 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:13:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:13:34 --> Unable to load the requested language file: language/portuguese-br/login/default_lang.php
+ERROR - 2026-03-31 19:13:34 --> Language file contains no data: language/portuguese-br/login/default_lang.php
+DEBUG - 2026-03-31 19:13:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/login/models/Login_m.php
+INFO - 2026-03-31 19:13:34 --> Helper loaded: form_helper
+INFO - 2026-03-31 19:13:34 --> Form Validation Class Initialized
+DEBUG - 2026-03-31 19:13:34 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+INFO - 2026-03-31 19:13:35 --> Final output sent to browser
+DEBUG - 2026-03-31 19:13:35 --> Total execution time: 0.3020
+INFO - 2026-03-31 19:13:37 --> Config Class Initialized
+INFO - 2026-03-31 19:13:37 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:13:37 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:13:37 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:13:37 --> URI Class Initialized
+INFO - 2026-03-31 19:13:37 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:13:37 --> Router Class Initialized
+INFO - 2026-03-31 19:13:37 --> Output Class Initialized
+INFO - 2026-03-31 19:13:37 --> Security Class Initialized
+DEBUG - 2026-03-31 19:13:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:13:37 --> CSRF cookie sent
+INFO - 2026-03-31 19:13:37 --> Input Class Initialized
+DEBUG - 2026-03-31 19:13:37 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:13:37 --> Config Class Initialized
+INFO - 2026-03-31 19:13:37 --> Loader Class Initialized
+INFO - 2026-03-31 19:13:37 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:13:37 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:13:37 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:13:37 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:13:37 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:13:37 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:13:37 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:13:37 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:13:37 --> Initial Auth Library
+INFO - 2026-03-31 19:13:37 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:13:37 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:13:37 --> Initial Logs Library
+INFO - 2026-03-31 19:13:37 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:13:37 --> Home MX_Controller Initialized
+INFO - 2026-03-31 19:13:37 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:13:37 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:13:37 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:13:37 --> Unable to load the requested language file: language/portuguese-br/home/default_lang.php
+ERROR - 2026-03-31 19:13:37 --> Language file contains no data: language/portuguese-br/home/default_lang.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/models/Home_m.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/header.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/home.php
+DEBUG - 2026-03-31 19:13:37 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/template/default.php
+INFO - 2026-03-31 19:13:37 --> Final output sent to browser
+DEBUG - 2026-03-31 19:13:37 --> Total execution time: 0.1145
+INFO - 2026-03-31 19:14:32 --> Config Class Initialized
+INFO - 2026-03-31 19:14:32 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:14:32 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:14:32 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:14:32 --> URI Class Initialized
+INFO - 2026-03-31 19:14:32 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:14:32 --> Router Class Initialized
+INFO - 2026-03-31 19:14:32 --> Output Class Initialized
+INFO - 2026-03-31 19:14:32 --> Security Class Initialized
+DEBUG - 2026-03-31 19:14:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:14:32 --> CSRF cookie sent
+INFO - 2026-03-31 19:14:32 --> Input Class Initialized
+DEBUG - 2026-03-31 19:14:32 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:14:32 --> Config Class Initialized
+INFO - 2026-03-31 19:14:32 --> Loader Class Initialized
+INFO - 2026-03-31 19:14:32 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:14:32 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:14:32 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:14:32 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:14:32 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:14:32 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:14:32 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:14:32 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:14:32 --> Initial Auth Library
+INFO - 2026-03-31 19:14:32 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:14:32 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:14:32 --> Initial Logs Library
+INFO - 2026-03-31 19:14:32 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:14:32 --> Configuracoes MX_Controller Initialized
+INFO - 2026-03-31 19:14:32 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:14:32 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:14:32 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:14:32 --> Unable to load the requested language file: language/portuguese-br/configuracoes/default_lang.php
+ERROR - 2026-03-31 19:14:32 --> Language file contains no data: language/portuguese-br/configuracoes/default_lang.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/models/Configuracoes_m.php
+DEBUG - 2026-03-31 19:14:32 --> Unable to load the requested language file: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 19:14:32 --> Language file contains no data: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 19:14:32 --> Could not find the language line "pagination_first_link"
+ERROR - 2026-03-31 19:14:32 --> Could not find the language line "pagination_next_link"
+ERROR - 2026-03-31 19:14:32 --> Could not find the language line "pagination_prev_link"
+ERROR - 2026-03-31 19:14:32 --> Could not find the language line "pagination_last_link"
+INFO - 2026-03-31 19:14:32 --> Pagination Class Initialized
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/header.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/busca.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/listagem.php
+DEBUG - 2026-03-31 19:14:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/template/default.php
+INFO - 2026-03-31 19:14:32 --> Final output sent to browser
+DEBUG - 2026-03-31 19:14:32 --> Total execution time: 0.0818
+INFO - 2026-03-31 19:14:35 --> Config Class Initialized
+INFO - 2026-03-31 19:14:35 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:14:35 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:14:35 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:14:35 --> URI Class Initialized
+INFO - 2026-03-31 19:14:35 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:14:35 --> Router Class Initialized
+INFO - 2026-03-31 19:14:35 --> Output Class Initialized
+INFO - 2026-03-31 19:14:35 --> Security Class Initialized
+DEBUG - 2026-03-31 19:14:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:14:35 --> CSRF cookie sent
+INFO - 2026-03-31 19:14:35 --> Input Class Initialized
+DEBUG - 2026-03-31 19:14:35 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:14:35 --> Config Class Initialized
+INFO - 2026-03-31 19:14:35 --> Loader Class Initialized
+INFO - 2026-03-31 19:14:35 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:14:35 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:14:35 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:14:35 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:14:35 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:14:35 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:14:35 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:14:35 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:14:35 --> Initial Auth Library
+INFO - 2026-03-31 19:14:35 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:14:35 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:14:35 --> Initial Logs Library
+INFO - 2026-03-31 19:14:35 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:14:35 --> Configuracoes MX_Controller Initialized
+INFO - 2026-03-31 19:14:35 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:14:35 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:14:35 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:14:35 --> Unable to load the requested language file: language/portuguese-br/configuracoes/default_lang.php
+ERROR - 2026-03-31 19:14:35 --> Language file contains no data: language/portuguese-br/configuracoes/default_lang.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/models/Configuracoes_m.php
+DEBUG - 2026-03-31 19:14:35 --> Unable to load the requested language file: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 19:14:35 --> Language file contains no data: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 19:14:35 --> Could not find the language line "pagination_first_link"
+ERROR - 2026-03-31 19:14:35 --> Could not find the language line "pagination_next_link"
+ERROR - 2026-03-31 19:14:35 --> Could not find the language line "pagination_prev_link"
+ERROR - 2026-03-31 19:14:35 --> Could not find the language line "pagination_last_link"
+INFO - 2026-03-31 19:14:35 --> Pagination Class Initialized
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/header.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/busca.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/listagem.php
+DEBUG - 2026-03-31 19:14:35 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/template/default.php
+INFO - 2026-03-31 19:14:35 --> Final output sent to browser
+DEBUG - 2026-03-31 19:14:35 --> Total execution time: 0.1057
+INFO - 2026-03-31 19:14:38 --> Config Class Initialized
+INFO - 2026-03-31 19:14:38 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:14:38 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:14:38 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:14:38 --> URI Class Initialized
+INFO - 2026-03-31 19:14:38 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:14:38 --> Router Class Initialized
+INFO - 2026-03-31 19:14:38 --> Output Class Initialized
+INFO - 2026-03-31 19:14:38 --> Security Class Initialized
+DEBUG - 2026-03-31 19:14:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:14:38 --> CSRF cookie sent
+INFO - 2026-03-31 19:14:38 --> Input Class Initialized
+DEBUG - 2026-03-31 19:14:38 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:14:38 --> Config Class Initialized
+INFO - 2026-03-31 19:14:38 --> Loader Class Initialized
+INFO - 2026-03-31 19:14:38 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:14:38 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:14:38 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:14:38 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:14:38 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:14:38 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:14:38 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:14:38 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:14:38 --> Initial Auth Library
+INFO - 2026-03-31 19:14:38 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:14:38 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:14:38 --> Initial Logs Library
+INFO - 2026-03-31 19:14:38 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:14:38 --> Configuracoes MX_Controller Initialized
+INFO - 2026-03-31 19:14:38 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:14:38 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:14:38 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:14:38 --> Unable to load the requested language file: language/portuguese-br/configuracoes/default_lang.php
+ERROR - 2026-03-31 19:14:38 --> Language file contains no data: language/portuguese-br/configuracoes/default_lang.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/models/Configuracoes_m.php
+DEBUG - 2026-03-31 19:14:38 --> Unable to load the requested language file: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 19:14:38 --> Language file contains no data: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 19:14:38 --> Could not find the language line "pagination_first_link"
+ERROR - 2026-03-31 19:14:38 --> Could not find the language line "pagination_next_link"
+ERROR - 2026-03-31 19:14:38 --> Could not find the language line "pagination_prev_link"
+ERROR - 2026-03-31 19:14:38 --> Could not find the language line "pagination_last_link"
+INFO - 2026-03-31 19:14:38 --> Pagination Class Initialized
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/header.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/busca.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/listagem.php
+DEBUG - 2026-03-31 19:14:38 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/template/default.php
+INFO - 2026-03-31 19:14:38 --> Final output sent to browser
+DEBUG - 2026-03-31 19:14:38 --> Total execution time: 0.0640
+INFO - 2026-03-31 19:14:41 --> Config Class Initialized
+INFO - 2026-03-31 19:14:41 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:14:41 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:14:41 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:14:41 --> URI Class Initialized
+INFO - 2026-03-31 19:14:41 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:14:41 --> Router Class Initialized
+INFO - 2026-03-31 19:14:41 --> Output Class Initialized
+INFO - 2026-03-31 19:14:41 --> Security Class Initialized
+DEBUG - 2026-03-31 19:14:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:14:41 --> CSRF cookie sent
+INFO - 2026-03-31 19:14:41 --> Input Class Initialized
+DEBUG - 2026-03-31 19:14:41 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:14:41 --> Config Class Initialized
+INFO - 2026-03-31 19:14:41 --> Loader Class Initialized
+INFO - 2026-03-31 19:14:41 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:14:41 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:14:41 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:14:41 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:14:41 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:14:41 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:14:41 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:14:41 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:14:41 --> Initial Auth Library
+INFO - 2026-03-31 19:14:41 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:14:41 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:14:41 --> Initial Logs Library
+INFO - 2026-03-31 19:14:41 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:14:41 --> Configuracoes MX_Controller Initialized
+INFO - 2026-03-31 19:14:41 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:14:41 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:14:41 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:14:41 --> Unable to load the requested language file: language/portuguese-br/configuracoes/default_lang.php
+ERROR - 2026-03-31 19:14:41 --> Language file contains no data: language/portuguese-br/configuracoes/default_lang.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/models/Configuracoes_m.php
+DEBUG - 2026-03-31 19:14:41 --> Unable to load the requested language file: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 19:14:41 --> Language file contains no data: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 19:14:41 --> Could not find the language line "pagination_first_link"
+ERROR - 2026-03-31 19:14:41 --> Could not find the language line "pagination_next_link"
+ERROR - 2026-03-31 19:14:41 --> Could not find the language line "pagination_prev_link"
+ERROR - 2026-03-31 19:14:41 --> Could not find the language line "pagination_last_link"
+INFO - 2026-03-31 19:14:41 --> Pagination Class Initialized
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/header.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/busca.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/listagem.php
+DEBUG - 2026-03-31 19:14:41 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/template/default.php
+INFO - 2026-03-31 19:14:41 --> Final output sent to browser
+DEBUG - 2026-03-31 19:14:41 --> Total execution time: 0.0659
+INFO - 2026-03-31 19:16:26 --> Config Class Initialized
+INFO - 2026-03-31 19:16:26 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:16:26 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:16:26 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:16:26 --> URI Class Initialized
+INFO - 2026-03-31 19:16:26 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:16:26 --> Router Class Initialized
+INFO - 2026-03-31 19:16:26 --> Output Class Initialized
+INFO - 2026-03-31 19:16:26 --> Security Class Initialized
+DEBUG - 2026-03-31 19:16:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:16:26 --> CSRF cookie sent
+INFO - 2026-03-31 19:16:26 --> Input Class Initialized
+DEBUG - 2026-03-31 19:16:26 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:16:26 --> Config Class Initialized
+INFO - 2026-03-31 19:16:26 --> Loader Class Initialized
+INFO - 2026-03-31 19:16:26 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:16:26 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:16:26 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:16:26 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:16:26 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:16:26 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:16:26 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:16:26 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:16:26 --> Initial Auth Library
+INFO - 2026-03-31 19:16:26 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:16:26 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:16:26 --> Initial Logs Library
+INFO - 2026-03-31 19:16:26 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:16:26 --> Leads MX_Controller Initialized
+INFO - 2026-03-31 19:16:26 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:16:26 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:16:26 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:16:26 --> Unable to load the requested language file: language/portuguese-br/leads/default_lang.php
+ERROR - 2026-03-31 19:16:26 --> Language file contains no data: language/portuguese-br/leads/default_lang.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/models/Leads_m.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/header.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/kanban.php
+DEBUG - 2026-03-31 19:16:26 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/template/default.php
+INFO - 2026-03-31 19:16:26 --> Final output sent to browser
+DEBUG - 2026-03-31 19:16:26 --> Total execution time: 0.2324
+INFO - 2026-03-31 19:16:34 --> Config Class Initialized
+INFO - 2026-03-31 19:16:34 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:16:34 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:16:34 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:16:34 --> URI Class Initialized
+INFO - 2026-03-31 19:16:34 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:16:34 --> Router Class Initialized
+INFO - 2026-03-31 19:16:34 --> Output Class Initialized
+INFO - 2026-03-31 19:16:34 --> Security Class Initialized
+DEBUG - 2026-03-31 19:16:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:16:34 --> CSRF cookie sent
+INFO - 2026-03-31 19:16:34 --> Input Class Initialized
+DEBUG - 2026-03-31 19:16:34 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:16:34 --> Config Class Initialized
+INFO - 2026-03-31 19:16:34 --> Loader Class Initialized
+INFO - 2026-03-31 19:16:34 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:16:34 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:16:34 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:16:34 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:16:34 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:16:34 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:16:34 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:16:34 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:16:34 --> Initial Auth Library
+INFO - 2026-03-31 19:16:34 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:16:34 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:16:34 --> Initial Logs Library
+INFO - 2026-03-31 19:16:34 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:16:34 --> Home MX_Controller Initialized
+INFO - 2026-03-31 19:16:34 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:16:34 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:16:34 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:16:34 --> Unable to load the requested language file: language/portuguese-br/home/default_lang.php
+ERROR - 2026-03-31 19:16:34 --> Language file contains no data: language/portuguese-br/home/default_lang.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/models/Home_m.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/header.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/home.php
+DEBUG - 2026-03-31 19:16:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/home/views/../../comum/views/template/default.php
+INFO - 2026-03-31 19:16:34 --> Final output sent to browser
+DEBUG - 2026-03-31 19:16:34 --> Total execution time: 0.0909
+INFO - 2026-03-31 19:16:47 --> Config Class Initialized
+INFO - 2026-03-31 19:16:47 --> Hooks Class Initialized
+DEBUG - 2026-03-31 19:16:47 --> UTF-8 Support Enabled
+INFO - 2026-03-31 19:16:47 --> Utf8 Class Initialized
+INFO - 2026-03-31 19:16:47 --> URI Class Initialized
+INFO - 2026-03-31 19:16:47 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:16:47 --> Router Class Initialized
+INFO - 2026-03-31 19:16:47 --> Output Class Initialized
+INFO - 2026-03-31 19:16:47 --> Security Class Initialized
+DEBUG - 2026-03-31 19:16:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 19:16:47 --> CSRF cookie sent
+INFO - 2026-03-31 19:16:47 --> Input Class Initialized
+DEBUG - 2026-03-31 19:16:47 --> MY_Lang Class Initialized
+INFO - 2026-03-31 19:16:47 --> Config Class Initialized
+INFO - 2026-03-31 19:16:47 --> Loader Class Initialized
+INFO - 2026-03-31 19:16:47 --> Helper loaded: url_helper
+INFO - 2026-03-31 19:16:47 --> Helper loaded: text_helper
+INFO - 2026-03-31 19:16:47 --> Helper loaded: date_helper
+INFO - 2026-03-31 19:16:47 --> Helper loaded: string_helper
+INFO - 2026-03-31 19:16:47 --> Helper loaded: permission_helper
+INFO - 2026-03-31 19:16:47 --> Helper loaded: components_helper
+INFO - 2026-03-31 19:16:47 --> Database Driver Class Initialized
+INFO - 2026-03-31 19:16:47 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 19:16:47 --> Initial Auth Library
+INFO - 2026-03-31 19:16:47 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 19:16:47 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 19:16:47 --> Initial Logs Library
+INFO - 2026-03-31 19:16:47 --> Controller Class Initialized
+DEBUG - 2026-03-31 19:16:47 --> Leads MX_Controller Initialized
+INFO - 2026-03-31 19:16:47 --> Helper loaded: debug_helper
+INFO - 2026-03-31 19:16:47 --> Helper loaded: language_helper
+ERROR - 2026-03-31 19:16:47 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 19:16:47 --> Unable to load the requested language file: language/portuguese-br/leads/default_lang.php
+ERROR - 2026-03-31 19:16:47 --> Language file contains no data: language/portuguese-br/leads/default_lang.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/models/Leads_m.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/header.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/kanban.php
+DEBUG - 2026-03-31 19:16:47 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/leads/views/../../comum/views/template/default.php
+INFO - 2026-03-31 19:16:47 --> Final output sent to browser
+DEBUG - 2026-03-31 19:16:47 --> Total execution time: 0.0839
+INFO - 2026-03-31 20:38:32 --> Config Class Initialized
+INFO - 2026-03-31 20:38:32 --> Hooks Class Initialized
+DEBUG - 2026-03-31 20:38:32 --> UTF-8 Support Enabled
+INFO - 2026-03-31 20:38:32 --> Utf8 Class Initialized
+INFO - 2026-03-31 20:38:32 --> URI Class Initialized
+INFO - 2026-03-31 20:38:32 --> Database Driver Class Initialized
+INFO - 2026-03-31 20:38:32 --> Router Class Initialized
+INFO - 2026-03-31 20:38:32 --> Output Class Initialized
+INFO - 2026-03-31 20:38:32 --> Security Class Initialized
+DEBUG - 2026-03-31 20:38:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 20:38:32 --> CSRF cookie sent
+INFO - 2026-03-31 20:38:32 --> Input Class Initialized
+DEBUG - 2026-03-31 20:38:32 --> MY_Lang Class Initialized
+INFO - 2026-03-31 20:38:32 --> Config Class Initialized
+INFO - 2026-03-31 20:38:32 --> Loader Class Initialized
+INFO - 2026-03-31 20:38:32 --> Helper loaded: url_helper
+INFO - 2026-03-31 20:38:32 --> Helper loaded: text_helper
+INFO - 2026-03-31 20:38:32 --> Helper loaded: date_helper
+INFO - 2026-03-31 20:38:32 --> Helper loaded: string_helper
+INFO - 2026-03-31 20:38:32 --> Helper loaded: permission_helper
+INFO - 2026-03-31 20:38:32 --> Helper loaded: components_helper
+INFO - 2026-03-31 20:38:32 --> Database Driver Class Initialized
+INFO - 2026-03-31 20:38:32 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 20:38:32 --> Initial Auth Library
+INFO - 2026-03-31 20:38:32 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 20:38:32 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 20:38:32 --> Initial Logs Library
+INFO - 2026-03-31 20:38:32 --> Controller Class Initialized
+DEBUG - 2026-03-31 20:38:32 --> Configuracoes MX_Controller Initialized
+INFO - 2026-03-31 20:38:32 --> Helper loaded: debug_helper
+INFO - 2026-03-31 20:38:32 --> Helper loaded: language_helper
+ERROR - 2026-03-31 20:38:32 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 20:38:32 --> Unable to load the requested language file: language/portuguese-br/configuracoes/default_lang.php
+ERROR - 2026-03-31 20:38:32 --> Language file contains no data: language/portuguese-br/configuracoes/default_lang.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/models/Configuracoes_m.php
+DEBUG - 2026-03-31 20:38:32 --> Unable to load the requested language file: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 20:38:32 --> Language file contains no data: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 20:38:32 --> Could not find the language line "pagination_first_link"
+ERROR - 2026-03-31 20:38:32 --> Could not find the language line "pagination_next_link"
+ERROR - 2026-03-31 20:38:32 --> Could not find the language line "pagination_prev_link"
+ERROR - 2026-03-31 20:38:32 --> Could not find the language line "pagination_last_link"
+INFO - 2026-03-31 20:38:32 --> Pagination Class Initialized
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/header.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/busca.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/listagem.php
+DEBUG - 2026-03-31 20:38:32 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/template/default.php
+INFO - 2026-03-31 20:38:32 --> Final output sent to browser
+DEBUG - 2026-03-31 20:38:32 --> Total execution time: 0.2236
+INFO - 2026-03-31 20:38:34 --> Config Class Initialized
+INFO - 2026-03-31 20:38:34 --> Hooks Class Initialized
+DEBUG - 2026-03-31 20:38:34 --> UTF-8 Support Enabled
+INFO - 2026-03-31 20:38:34 --> Utf8 Class Initialized
+INFO - 2026-03-31 20:38:34 --> URI Class Initialized
+INFO - 2026-03-31 20:38:34 --> Database Driver Class Initialized
+INFO - 2026-03-31 20:38:34 --> Router Class Initialized
+INFO - 2026-03-31 20:38:34 --> Output Class Initialized
+INFO - 2026-03-31 20:38:34 --> Security Class Initialized
+DEBUG - 2026-03-31 20:38:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 20:38:34 --> CSRF cookie sent
+INFO - 2026-03-31 20:38:34 --> Input Class Initialized
+DEBUG - 2026-03-31 20:38:34 --> MY_Lang Class Initialized
+INFO - 2026-03-31 20:38:34 --> Config Class Initialized
+INFO - 2026-03-31 20:38:34 --> Loader Class Initialized
+INFO - 2026-03-31 20:38:34 --> Helper loaded: url_helper
+INFO - 2026-03-31 20:38:34 --> Helper loaded: text_helper
+INFO - 2026-03-31 20:38:34 --> Helper loaded: date_helper
+INFO - 2026-03-31 20:38:34 --> Helper loaded: string_helper
+INFO - 2026-03-31 20:38:34 --> Helper loaded: permission_helper
+INFO - 2026-03-31 20:38:34 --> Helper loaded: components_helper
+INFO - 2026-03-31 20:38:34 --> Database Driver Class Initialized
+INFO - 2026-03-31 20:38:34 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 20:38:34 --> Initial Auth Library
+INFO - 2026-03-31 20:38:34 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 20:38:34 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 20:38:34 --> Initial Logs Library
+INFO - 2026-03-31 20:38:34 --> Controller Class Initialized
+DEBUG - 2026-03-31 20:38:34 --> Configuracoes MX_Controller Initialized
+INFO - 2026-03-31 20:38:34 --> Helper loaded: debug_helper
+INFO - 2026-03-31 20:38:34 --> Helper loaded: language_helper
+ERROR - 2026-03-31 20:38:34 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 20:38:34 --> Unable to load the requested language file: language/portuguese-br/configuracoes/default_lang.php
+ERROR - 2026-03-31 20:38:34 --> Language file contains no data: language/portuguese-br/configuracoes/default_lang.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/models/Configuracoes_m.php
+DEBUG - 2026-03-31 20:38:34 --> Unable to load the requested language file: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 20:38:34 --> Language file contains no data: language/portuguese-br/pagination_lang.php
+ERROR - 2026-03-31 20:38:34 --> Could not find the language line "pagination_first_link"
+ERROR - 2026-03-31 20:38:34 --> Could not find the language line "pagination_next_link"
+ERROR - 2026-03-31 20:38:34 --> Could not find the language line "pagination_prev_link"
+ERROR - 2026-03-31 20:38:34 --> Could not find the language line "pagination_last_link"
+INFO - 2026-03-31 20:38:34 --> Pagination Class Initialized
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/header.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/busca.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/listagem.php
+DEBUG - 2026-03-31 20:38:34 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/template/default.php
+INFO - 2026-03-31 20:38:34 --> Final output sent to browser
+DEBUG - 2026-03-31 20:38:34 --> Total execution time: 0.1986
+INFO - 2026-03-31 20:38:36 --> Config Class Initialized
+INFO - 2026-03-31 20:38:36 --> Hooks Class Initialized
+DEBUG - 2026-03-31 20:38:36 --> UTF-8 Support Enabled
+INFO - 2026-03-31 20:38:36 --> Utf8 Class Initialized
+INFO - 2026-03-31 20:38:36 --> URI Class Initialized
+INFO - 2026-03-31 20:38:36 --> Database Driver Class Initialized
+INFO - 2026-03-31 20:38:36 --> Router Class Initialized
+INFO - 2026-03-31 20:38:36 --> Output Class Initialized
+INFO - 2026-03-31 20:38:36 --> Security Class Initialized
+DEBUG - 2026-03-31 20:38:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-03-31 20:38:36 --> CSRF cookie sent
+INFO - 2026-03-31 20:38:36 --> Input Class Initialized
+DEBUG - 2026-03-31 20:38:36 --> MY_Lang Class Initialized
+INFO - 2026-03-31 20:38:36 --> Config Class Initialized
+INFO - 2026-03-31 20:38:36 --> Loader Class Initialized
+INFO - 2026-03-31 20:38:36 --> Helper loaded: url_helper
+INFO - 2026-03-31 20:38:36 --> Helper loaded: text_helper
+INFO - 2026-03-31 20:38:36 --> Helper loaded: date_helper
+INFO - 2026-03-31 20:38:36 --> Helper loaded: string_helper
+INFO - 2026-03-31 20:38:36 --> Helper loaded: permission_helper
+INFO - 2026-03-31 20:38:36 --> Helper loaded: components_helper
+INFO - 2026-03-31 20:38:36 --> Database Driver Class Initialized
+INFO - 2026-03-31 20:38:36 --> Session: Class initialized using 'database' driver.
+DEBUG - 2026-03-31 20:38:36 --> Initial Auth Library
+INFO - 2026-03-31 20:38:36 --> Helper loaded: inflector_helper
+INFO - 2026-03-31 20:38:36 --> Helper loaded: file_helper
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/models/Comum_m.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/administration/models/Module_m.php
+DEBUG - 2026-03-31 20:38:36 --> Initial Logs Library
+INFO - 2026-03-31 20:38:36 --> Controller Class Initialized
+DEBUG - 2026-03-31 20:38:36 --> Configuracoes MX_Controller Initialized
+INFO - 2026-03-31 20:38:36 --> Helper loaded: debug_helper
+INFO - 2026-03-31 20:38:36 --> Helper loaded: language_helper
+ERROR - 2026-03-31 20:38:36 --> Language file contains no data: language/portuguese-br/default_lang.php
+DEBUG - 2026-03-31 20:38:36 --> Unable to load the requested language file: language/portuguese-br/configuracoes/default_lang.php
+ERROR - 2026-03-31 20:38:36 --> Language file contains no data: language/portuguese-br/configuracoes/default_lang.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/comum/views/menu-item.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/models/Configuracoes_m.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/header.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/sidebar.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/breadcrumb.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/footer.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/formulario.php
+DEBUG - 2026-03-31 20:38:36 --> File loaded: /Users/tiago/Dev/Fcode/seguroviagemfapesp/admin/modules/configuracoes/views/../../comum/views/template/default.php
+INFO - 2026-03-31 20:38:36 --> Final output sent to browser
+DEBUG - 2026-03-31 20:38:36 --> Total execution time: 0.1029

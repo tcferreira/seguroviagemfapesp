@@ -17,7 +17,7 @@
     <meta property="og:title" content="<?= htmlspecialchars($company->meta_title) ?>">
     <meta property="og:description" content="<?= htmlspecialchars($company->meta_description) ?>">
     <meta property="og:url" content="<?= base_url('seguro-viagem-fapesp') ?>">
-    <meta property="og:site_name" content="<?= htmlspecialchars($company->fantasy_name) ?>">
+    <meta property="og:site_name" content="SEGURO VIAGEM FAPESP">
     <meta property="og:image" content="<?= base_url('assets/img/bolsista-fapesp-seguro-viagem-og.jpg') ?>">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -27,6 +27,17 @@
     <meta name="twitter:title" content="<?= htmlspecialchars($company->meta_title) ?>">
     <meta name="twitter:description" content="<?= htmlspecialchars($company->meta_description) ?>">
     <meta name="twitter:image" content="<?= base_url('assets/img/bolsista-fapesp-seguro-viagem-og.jpg') ?>">
+
+    <!-- Schema JSON-LD: WebSite (Google Site Name) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "SEGURO VIAGEM FAPESP",
+        "alternateName": "Seguro Viagem FAPESP",
+        "url": "<?= base_url() ?>"
+    }
+    </script>
 
     <!-- Preconnect -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -1461,7 +1472,7 @@
             </p>
             <?php endif; ?>
             <p class="footer-disclaimer">Este não é um site oficial da FAPESP. Site desenvolvido por <?= htmlspecialchars($company->fantasy_name) ?>.</p>
-            <p style="margin-top:8px;font-size:0.75rem;opacity:0.5;"><a href="#" style="color:rgba(255,255,255,0.7);">Política de Privacidade</a></p>
+            <!-- <p style="margin-top:8px;font-size:0.75rem;opacity:0.5;"><a href="#" style="color:rgba(255,255,255,0.7);">Política de Privacidade</a></p> -->
         </div>
     </footer>
 
